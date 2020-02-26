@@ -1,0 +1,1824 @@
+StudyGlobal Booking ID,SumOfStage Duration,SumOf# Calls,SumOf# Emails,Direction,Sub-Region,Class,Intake vs Offer,emailsCallsProduct
+16595498,816,0,3,Inbound,LAM,Jack,284,0
+16595498,816,0,3,Inbound,LAM,Jack,221,0
+16595498,816,0,3,Inbound,LAM,Jill,117,0
+16595498,9520,7,0,Outbound,LAM,Jack,284,0
+16595498,9520,7,0,Outbound,LAM,Jack,221,0
+16595498,9520,7,0,Outbound,LAM,Jill,117,0
+16798845,2192,0,8,Inbound,ANZ,Jill,90,0
+16798845,1644,3,3,Outbound,ANZ,Jill,90,9
+18107126,4824,0,18,Inbound,ANZ,Jill,46,0
+18107126,7236,9,18,Outbound,ANZ,Jill,46,162
+13353359,491,0,1,Outbound,E China,Jill,398,0
+13353359,491,0,1,Outbound,E China,Jill,292,0
+13353359,491,0,1,Outbound,E China,Jack,409,0
+12783338,408,0,1,Outbound,C China,Jack,472,0
+12783338,408,0,1,Outbound,C China,Jack,398,0
+12783338,408,0,1,Outbound,C China,Jill,390,0
+12783338,408,0,1,Outbound,C China,Jill,114,0
+18214627,805,0,5,Inbound,Korea,Jill,152,0
+18214627,805,0,5,Inbound,Korea,Jack,157,0
+18214627,1610,2,8,Outbound,Korea,Jill,152,16
+18214627,1610,2,8,Outbound,Korea,Jack,157,16
+18112605,1449,0,9,Inbound,W China,Jack,160,0
+18112605,1449,0,9,Inbound,W China,Jill,150,0
+18112605,483,1,2,Outbound,W China,Jack,160,2
+18112605,483,1,2,Outbound,W China,Jill,150,2
+20889570,535,0,5,Inbound,Singapore,Jill,139,0
+20889570,963,4,5,Outbound,Singapore,Jill,139,20
+18067322,990,1,9,Inbound,E China,Jill,210,9
+18067322,1485,9,6,Outbound,E China,Jill,210,54
+16888912,963,0,9,Inbound,E China,Jill,250,0
+16888912,1391,9,4,Outbound,E China,Jill,250,36
+20435275,594,0,6,Inbound,S China,Jill,151,0
+20435275,594,0,6,Inbound,S China,Jack,23,0
+20435275,198,0,2,Outbound,S China,Jill,151,0
+20435275,198,0,2,Outbound,S China,Jack,23,0
+21072123,535,0,5,Inbound,S China,Jill,136,0
+21072123,214,0,2,Outbound,S China,Jill,136,0
+23680095,256,0,2,Inbound,Taiwan/Japan,Jill,59,0
+23680095,256,0,2,Inbound,Taiwan/Japan,Jack,,0
+23680095,384,0,3,Outbound,Taiwan/Japan,Jill,59,0
+23680095,384,0,3,Outbound,Taiwan/Japan,Jack,,0
+18280983,2176,0,17,Inbound,W China,Jill,185,0
+18280983,1536,6,6,Outbound,W China,Jill,185,36
+22964378,488,0,4,Inbound,E China,Jill,74,0
+22964378,610,2,2,Outbound,E China,Jill,74,4
+23074349,128,0,0,Outbound,E China,Jill,70,0
+18076526,436,1,1,Inbound,W China,Jack,398,1
+18076526,436,1,1,Inbound,W China,Jill,189,1
+18076526,436,1,1,Inbound,W China,Jack,357,1
+17110514,1776,0,6,Inbound,E China,Jack,136,0
+17110514,1776,0,6,Inbound,E China,Jill,115,0
+17110514,5032,5,11,Outbound,E China,Jack,136,55
+17110514,5032,5,11,Outbound,E China,Jill,115,55
+15776206,636,1,2,Outbound,S China,Jill,194,2
+16492207,1484,7,0,Outbound,S China,Jill,159,0
+19393787,3270,0,15,Inbound,Hong Kong,Jack,507,0
+19393787,3270,0,15,Inbound,Hong Kong,Jack,306,0
+19393787,3270,0,15,Inbound,Hong Kong,Jill,299,0
+19393787,1744,2,6,Outbound,Hong Kong,Jack,507,12
+19393787,1744,2,6,Outbound,Hong Kong,Jack,306,12
+19393787,1744,2,6,Outbound,Hong Kong,Jill,299,12
+19820842,1712,0,16,Inbound,Taiwan/Japan,Jill,165,0
+19820842,2568,13,11,Outbound,Taiwan/Japan,Jill,165,143
+17299901,1156,0,4,Inbound,N China,Jack,51,0
+17299901,1156,0,4,Inbound,N China,Jill,45,0
+17299901,1734,3,3,Outbound,N China,Jack,51,9
+17299901,1734,3,3,Outbound,N China,Jill,45,9
+15794811,1744,0,8,Inbound,E China,Jack,245,0
+15794811,1744,0,8,Inbound,E China,Jack,298,0
+15794811,1744,0,8,Inbound,E China,Jill,248,0
+15794811,654,2,1,Outbound,E China,Jack,245,2
+15794811,654,2,1,Outbound,E China,Jack,298,2
+15794811,654,2,1,Outbound,E China,Jill,248,2
+15986230,578,0,2,Inbound,N China,Jack,105,0
+15986230,578,0,2,Inbound,N China,Jill,67,0
+15986230,867,2,1,Outbound,N China,Jack,105,2
+15986230,867,2,1,Outbound,N China,Jill,67,2
+22349003,535,0,5,Inbound,ANZ,Jack,108,0
+22349003,535,0,5,Inbound,ANZ,Jill,94,0
+22349003,321,0,3,Outbound,ANZ,Jack,108,0
+22349003,321,0,3,Outbound,ANZ,Jill,94,0
+17142330,3180,0,15,Inbound,Brazil,Jill,133,0
+17142330,3180,0,15,Inbound,Brazil,Jack,,0
+17142330,1060,3,2,Outbound,Brazil,Jill,133,6
+17142330,1060,3,2,Outbound,Brazil,Jack,,6
+19346230,1908,0,9,Inbound,Central Asia,Jill,73,0
+19346230,4240,10,9,Outbound,Central Asia,Jill,73,90
+19390519,1060,0,5,Inbound,Indonesia,Jill,70,0
+19390519,1484,5,2,Outbound,Indonesia,Jill,70,10
+16421461,5724,0,27,Inbound,E China,Jack,150,0
+16421461,5724,0,27,Inbound,E China,Jill,159,0
+16421461,8056,7,31,Outbound,E China,Jack,150,217
+16421461,8056,7,31,Outbound,E China,Jill,159,217
+19345587,2120,0,10,Inbound,S China,Jill,73,0
+19345587,6784,23,8,Outbound,S China,Jill,73,184
+17268616,4425,1,14,Inbound,E China,Jill,44,14
+17268616,11210,24,14,Outbound,E China,Jill,44,336
+17272360,885,0,3,Inbound,E China,Jill,126,0
+17272360,885,0,3,Outbound,E China,Jill,126,0
+15774321,870,3,0,Outbound,Indonesia,Jill,110,0
+16309349,295,0,1,Inbound,W China,Jack,82,0
+16309349,295,0,1,Inbound,W China,Jill,70,0
+16309349,1475,5,0,Outbound,W China,Jack,82,0
+16309349,1475,5,0,Outbound,W China,Jill,70,0
+17401428,885,0,3,Inbound,Taiwan/Japan,Jill,41,0
+17401428,6785,18,5,Outbound,Taiwan/Japan,Jill,41,90
+15836547,864,0,3,Inbound,ANZ,Jill,105,0
+15836547,1152,2,2,Outbound,ANZ,Jill,105,4
+16527036,3835,0,13,Inbound,Middle East,Jill,74,0
+16527036,3245,1,10,Outbound,Middle East,Jill,74,10
+15210103,295,0,1,Inbound,Rest of S Asia,Jill,129,0
+15210103,1770,5,1,Outbound,Rest of S Asia,Jill,129,5
+13314006,295,1,0,Outbound,Hong Kong,Jill,277,0
+14389155,295,0,1,Outbound,Hong Kong,Jill,186,0
+17272110,590,0,2,Inbound,E China,Jill,126,0
+17272110,590,0,2,Outbound,E China,Jill,126,0
+15794914,1180,4,0,Outbound,E China,Jill,109,0
+18099970,1095,0,15,Inbound,LAM,Jill,244,0
+18099970,1387,6,12,Outbound,LAM,Jill,244,72
+14603562,690,0,3,Inbound,"Malaysia, Brunei, Philippines",Jill,105,0
+14603562,690,0,3,Inbound,"Malaysia, Brunei, Philippines",Jill,242,0
+14603562,1610,6,1,Outbound,"Malaysia, Brunei, Philippines",Jill,105,6
+14603562,1610,6,1,Outbound,"Malaysia, Brunei, Philippines",Jill,242,6
+15088204,313,1,0,Outbound,Hong Kong,Jill,130,0
+15772514,128,0,1,Inbound,E China,Jill,271,0
+15772514,1408,10,1,Outbound,E China,Jill,271,10
+17638279,1560,0,6,Inbound,W China,Jill,56,0
+17638279,1040,0,4,Outbound,W China,Jill,56,0
+16077264,3480,0,29,Inbound,Indonesia,Jack,140,0
+16077264,3480,0,29,Inbound,Indonesia,Jill,108,0
+16077264,3480,0,29,Inbound,Indonesia,Jack,248,0
+16077264,4440,18,19,Outbound,Indonesia,Jack,140,342
+16077264,4440,18,19,Outbound,Indonesia,Jill,108,342
+16077264,4440,18,19,Outbound,Indonesia,Jack,248,342
+14824860,558,0,2,Outbound,UK & W Europe,Jack,173,0
+14824860,558,0,2,Outbound,UK & W Europe,Jill,171,0
+14824860,558,0,2,Outbound,UK & W Europe,Jack,178,0
+15945385,275,1,0,Outbound,W China,Jill,122,0
+15945385,275,1,0,Outbound,W China,Jack,159,0
+15480743,494,0,2,Inbound,ANZ,Jill,132,0
+15480743,494,0,2,Inbound,ANZ,Jack,263,0
+15480743,1482,4,2,Outbound,ANZ,Jill,132,8
+15480743,1482,4,2,Outbound,ANZ,Jack,263,8
+18205169,558,0,2,Inbound,S China,Jill,39,0
+18205169,2232,6,2,Outbound,S China,Jill,39,12
+18816624,3058,0,11,Inbound,ANZ,Jack,,0
+18816624,3058,0,11,Inbound,ANZ,Jill,5,0
+18816624,4726,11,6,Outbound,ANZ,Jack,,66
+18816624,4726,11,6,Outbound,ANZ,Jill,5,66
+16237751,558,2,0,Outbound,Indonesia,Jill,108,0
+20707535,468,0,3,Inbound,C China,Jill,96,0
+18275130,4746,0,21,Inbound,Russia,Jill,87,0
+18275130,5424,7,17,Outbound,Russia,Jill,87,119
+19069335,904,0,4,Inbound,ANZ,Jill,63,0
+19069335,2712,7,5,Outbound,ANZ,Jill,63,35
+19013485,452,0,2,Inbound,ANZ,Jill,67,0
+19013485,678,0,2,Outbound,ANZ,Jill,67,0
+17111833,930,0,3,Inbound,N China,Jill,38,0
+17111833,2480,6,2,Outbound,N China,Jill,38,12
+11677105,672,1,0,Outbound,N China,Jill,84,0
+11677105,672,1,0,Outbound,N China,Jill,75,0
+14186056,888,0,2,Inbound,UK & W Europe,Jill,49,0
+17308271,323,1,0,Outbound,C China,Jill,75,0
+24202698,320,0,4,Inbound,S China,Jill,97,0
+24202698,240,0,3,Outbound,S China,Jill,97,0
+27792328,148,0,2,Inbound,S China,Jill,23,0
+27792328,222,1,2,Outbound,S China,Jill,23,2
+22673999,3120,0,40,Inbound,Iran,Jill,126,0
+22673999,2730,1,34,Outbound,Iran,Jill,126,34
+16311629,158,0,2,Inbound,ANZ,Jill,294,0
+16311629,158,1,1,Outbound,ANZ,Jill,294,1
+22964319,553,0,7,Inbound,India,Jill,124,0
+22964319,395,0,5,Outbound,India,Jill,124,0
+26438503,3080,0,40,Inbound,India,Jill,53,0
+26438503,2310,0,30,Outbound,India,Jill,53,0
+19653620,390,0,5,Inbound,Indonesia,Jill,341,0
+19653620,234,0,3,Outbound,Indonesia,Jill,341,0
+18694876,380,0,5,Inbound,Indonesia,Jill,222,0
+18694876,380,4,1,Outbound,Indonesia,Jill,222,4
+28060908,3008,7,40,Inbound,Middle East,Jill,18,280
+28060908,1920,16,14,Outbound,Middle East,Jill,18,224
+22674763,4104,3,73,Inbound,Nigeria,Jill,126,219
+22674763,5508,40,59,Outbound,Nigeria,Jill,126,2360
+21153405,3040,0,38,Inbound,Central Asia,Jill,164,0
+21153405,3920,10,36,Outbound,Central Asia,Jill,164,360
+17084471,4543,2,57,Inbound,UK & W Europe,Jill,264,114
+17084471,5313,24,43,Outbound,UK & W Europe,Jill,264,1032
+18791400,4335,0,15,Inbound,Thailand,Jill,35,0
+18791400,2023,7,0,Outbound,Thailand,Jill,35,0
+22914047,1771,0,23,Inbound,Brazil,Jill,118,0
+22914047,2233,3,20,Outbound,Brazil,Jill,118,60
+24709486,304,0,4,Inbound,C China,Jill,89,0
+24709486,152,1,1,Outbound,C China,Jill,89,1
+16888833,1260,0,4,Inbound,C China,Jill,33,0
+16888833,1260,3,1,Outbound,C China,Jill,33,3
+21917575,836,0,11,Inbound,N China,Jill,146,0
+21917575,760,1,9,Outbound,N China,Jill,146,9
+15188116,648,0,2,Inbound,N China,Jill,110,0
+15188116,324,1,0,Outbound,N China,Jill,110,0
+21788584,1078,0,14,Inbound,S China,Jill,150,0
+21788584,1848,8,16,Outbound,S China,Jill,150,128
+19590631,462,0,6,Inbound,W China,Jill,196,0
+19590631,308,1,2,Outbound,W China,Jill,196,2
+26447733,462,0,6,Inbound,UK & W Europe,Jill,52,0
+26447733,154,0,2,Outbound,UK & W Europe,Jill,52,0
+17306499,539,0,7,Inbound,Indonesia,Jill,259,0
+17306499,1001,8,5,Outbound,Indonesia,Jill,259,40
+15126579,5832,0,18,Inbound,Middle East,Jill,105,0
+15126579,5832,0,18,Inbound,Middle East,Jack,111,0
+15126579,3564,2,9,Outbound,Middle East,Jill,105,18
+15126579,3564,2,9,Outbound,Middle East,Jack,111,18
+16702804,20922,2,64,Inbound,Nigeria,Jill,24,128
+16702804,12997,12,29,Outbound,Nigeria,Jill,24,348
+25510676,1334,0,23,Inbound,"S Europe, Levant & N Africa",Jill,66,0
+25510676,1450,17,6,Outbound,"S Europe, Levant & N Africa",Jill,66,102
+23289129,3311,1,42,Inbound,Eastern Europe,Jill,117,42
+23289129,5005,28,34,Outbound,Eastern Europe,Jill,117,952
+16594614,11664,0,36,Inbound,UK & W Europe,Jill,42,0
+16594614,8748,7,20,Outbound,UK & W Europe,Jill,42,140
+24098200,4278,0,62,Inbound,Rest of Africa,Jill,101,0
+24098200,4830,26,41,Outbound,Rest of Africa,Jill,101,1066
+17411563,2128,0,28,Inbound,LAM,Jill,258,0
+17411563,3648,22,24,Outbound,LAM,Jill,258,528
+27422251,451,1,10,Inbound,Iran,Jill,31,10
+27422251,451,1,10,Inbound,Iran,Jill,10,10
+27422251,2009,41,7,Outbound,Iran,Jill,31,287
+27422251,2009,41,7,Outbound,Iran,Jill,10,287
+27431912,710,0,10,Inbound,N China,Jill,13,0
+27431912,710,0,10,Inbound,N China,Jack,,0
+27431912,1349,8,11,Outbound,N China,Jill,13,88
+27431912,1349,8,11,Outbound,N China,Jack,,88
+18458424,4720,0,59,Inbound,Rest of Africa,Jill,229,0
+18458424,5600,21,48,Outbound,Rest of Africa,Jill,229,1008
+26985927,539,1,6,Inbound,"S Europe, Levant & N Africa",Jill,39,6
+26985927,693,5,3,Outbound,"S Europe, Levant & N Africa",Jill,39,15
+24406778,1350,0,18,Inbound,Indonesia,Jill,95,0
+24406778,975,3,10,Outbound,Indonesia,Jill,95,30
+23441692,2244,0,34,Inbound,Rest of Africa,Jill,112,0
+23441692,4092,25,31,Outbound,Rest of Africa,Jill,112,775
+28708023,1922,2,29,Inbound,UK & W Europe,Jill,-4,58
+28708023,3038,24,25,Outbound,UK & W Europe,Jill,-4,600
+19584179,2418,0,31,Inbound,"S Europe, Levant & N Africa",Jill,200,0
+19584179,3588,4,42,Outbound,"S Europe, Levant & N Africa",Jill,200,168
+16250873,321,0,1,Outbound,C China,Jill,59,0
+27693203,183,0,3,Inbound,"Malaysia, Brunei, Philippines",Jill,25,0
+27693203,732,8,4,Outbound,"Malaysia, Brunei, Philippines",Jill,25,32
+19220762,3240,0,15,Inbound,Pakistan,Jill,59,0
+19220762,9936,40,6,Outbound,Pakistan,Jill,59,240
+27436264,216,1,2,Inbound,UK & W Europe,Jill,31,2
+27436264,216,2,1,Outbound,UK & W Europe,Jill,31,2
+13676069,12363,1,38,Inbound,Nigeria,Jill,201,38
+13676069,16801,26,27,Outbound,Nigeria,Jill,201,702
+24500657,3712,0,58,Inbound,Nigeria,Jill,90,0
+24500657,5312,33,47,Outbound,Nigeria,Jill,90,1551
+28008914,2291,1,28,Inbound,UK & W Europe,Jill,16,28
+28008914,2212,6,22,Outbound,UK & W Europe,Jill,16,132
+20444690,1617,0,21,Inbound,UK & W Europe,Jill,179,0
+20444690,3388,34,10,Outbound,UK & W Europe,Jill,179,340
+24186393,5346,1,65,Inbound,"S Europe, Levant & N Africa",Jill,97,65
+24186393,1620,13,4,Outbound,"S Europe, Levant & N Africa",Jill,97,52
+22391854,237,0,3,Inbound,S China,Jill,136,0
+22391854,158,1,0,Outbound,S China,Jill,136,0
+10562473,1195,1,0,Inbound,Rest of Africa,Jill,42,0
+15941247,324,1,0,Outbound,N China,Jill,75,0
+25654020,462,0,6,Inbound,S China,Jill,69,0
+25654020,616,3,5,Outbound,S China,Jill,69,15
+20069136,2352,3,39,Inbound,Nigeria,Jack,188,117
+20069136,2352,3,39,Inbound,Nigeria,Jill,182,117
+20069136,3976,25,43,Outbound,Nigeria,Jack,188,1075
+20069136,3976,25,43,Outbound,Nigeria,Jill,182,1075
+24746560,539,0,7,Inbound,UK & W Europe,Jill,87,0
+24746560,2002,15,9,Outbound,UK & W Europe,Jill,87,135
+14841029,442,0,1,Inbound,Rest of Africa,Jill,11,0
+14264802,884,1,1,Inbound,UK & W Europe,Jill,35,1
+18318851,468,0,6,Inbound,N China,Jill,231,0
+18318851,624,3,5,Outbound,N China,Jill,231,15
+18580701,1356,0,6,Inbound,W China,Jack,76,0
+18580701,1356,0,6,Inbound,W China,Jill,76,0
+18580701,226,0,0,Outbound,W China,Jack,76,0
+18580701,226,0,0,Outbound,W China,Jill,76,0
+15858494,972,2,1,Outbound,Korea,Jill,75,2
+26110206,2992,44,0,Outbound,"Malaysia, Brunei, Philippines",Jill,48,0
+26110206,2992,44,0,Outbound,"Malaysia, Brunei, Philippines",Jill,19,0
+24707414,1170,0,15,Inbound,"Malaysia, Brunei, Philippines",Jill,90,0
+24707414,1404,3,15,Outbound,"Malaysia, Brunei, Philippines",Jill,90,45
+27792443,1440,0,20,Inbound,W China,Jill,22,0
+27792443,1728,20,4,Outbound,W China,Jill,22,80
+26679842,252,0,4,Inbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,48,0
+26679842,252,0,4,Inbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,2,0
+26679842,567,6,3,Outbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,48,18
+26679842,567,6,3,Outbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,2,18
+25653889,693,0,9,Inbound,ANZ,Jill,66,0
+25653889,385,0,5,Outbound,ANZ,Jill,66,0
+12964684,443,0,1,Inbound,Rest of Africa,Jill,172,0
+12964684,886,0,2,Outbound,Rest of Africa,Jill,172,0
+15944815,963,1,2,Outbound,E China,Jill,73,2
+22057577,480,0,6,Inbound,Hong Kong,Jack,143,0
+22057577,480,0,6,Inbound,Hong Kong,Jill,138,0
+22057577,560,1,6,Outbound,Hong Kong,Jack,143,6
+22057577,560,1,6,Outbound,Hong Kong,Jill,138,6
+21544789,5525,5,80,Inbound,Nigeria,Jill,31,400
+21544789,5525,5,80,Inbound,Nigeria,Jack,,400
+21544789,5525,5,80,Inbound,Nigeria,Jill,152,400
+21544789,6045,36,53,Outbound,Nigeria,Jill,31,1908
+21544789,6045,36,53,Outbound,Nigeria,Jack,,1908
+21544789,6045,36,53,Outbound,Nigeria,Jill,152,1908
+26205328,2325,1,30,Inbound,Nigeria,Jack,,30
+26205328,2325,1,30,Inbound,Nigeria,Jill,54,30
+26205328,1950,6,20,Outbound,Nigeria,Jack,,120
+26205328,1950,6,20,Outbound,Nigeria,Jill,54,120
+24845284,316,0,4,Inbound,S China,Jill,87,0
+24845284,79,0,1,Outbound,S China,Jill,87,0
+23775904,231,0,3,Inbound,Middle East,Jill,108,0
+23674561,462,0,6,Inbound,UK & W Europe,Jill,110,0
+27391159,77,1,0,Inbound,Nigeria,Jill,27,0
+27391159,385,4,1,Outbound,Nigeria,Jill,27,4
+16889810,20922,1,65,Inbound,Iran,Jill,33,65
+16889810,14265,23,20,Outbound,Iran,Jill,33,460
+14658534,420,1,0,Inbound,Middle East,Jill,19,0
+14658534,2520,6,0,Outbound,Middle East,Jill,19,0
+21021002,2119,0,13,Inbound,UK & W Europe,Jack,73,0
+21021002,2119,0,13,Inbound,UK & W Europe,Jill,55,0
+21021002,1304,1,7,Outbound,UK & W Europe,Jack,73,7
+21021002,1304,1,7,Outbound,UK & W Europe,Jill,55,7
+16421251,316,0,4,Inbound,India,Jill,293,0
+16421251,316,1,3,Outbound,India,Jill,293,3
+11609462,70401,0,93,Inbound,Middle East,Jill,35,0
+11609462,70401,0,93,Inbound,Middle East,Jack,,0
+17877522,28416,1,95,Inbound,Middle East,Jill,-2,95
+17877522,26640,51,39,Outbound,Middle East,Jill,-2,1989
+13615953,390,0,1,Inbound,"S Europe, Levant & N Africa",Jill,42,0
+13615953,390,0,1,Inbound,"S Europe, Levant & N Africa",Jack,136,0
+13615953,390,0,1,Inbound,"S Europe, Levant & N Africa",Jill,87,0
+13320353,441,0,1,Inbound,UK & W Europe,Jill,124,0
+24407127,3402,1,41,Inbound,UK & W Europe,Jill,94,41
+24407127,5346,23,38,Outbound,UK & W Europe,Jill,94,874
+15705695,948,3,0,Outbound,Singapore,Jill,84,0
+14605129,79,0,1,Outbound,Singapore,Jack,390,0
+14605129,79,0,1,Outbound,Singapore,Jill,384,0
+24710736,1804,5,36,Inbound,Middle East,Jill,89,180
+24710736,4224,72,20,Outbound,Middle East,Jill,89,1440
+20789990,1540,0,20,Inbound,UK & W Europe,Jill,171,0
+20789990,2002,5,21,Outbound,UK & W Europe,Jill,171,105
+26427998,3015,3,42,Inbound,UK & W Europe,Jill,53,126
+26427998,3886,17,38,Outbound,UK & W Europe,Jill,53,646
+28458166,1470,3,18,Inbound,UK & W Europe,Jill,-1,54
+28458166,1960,24,4,Outbound,UK & W Europe,Jill,-1,96
+27784414,627,0,11,Inbound,Nigeria,Jill,23,0
+27784414,1197,16,5,Outbound,Nigeria,Jill,23,80
+15611197,324,1,0,Outbound,"Malaysia, Brunei, Philippines",Jill,88,0
+15487333,951,0,3,Outbound,Iran,Jill,360,0
+15487333,951,0,3,Outbound,Iran,Jack,95,0
+15487333,951,0,3,Outbound,Iran,Jill,73,0
+22717565,1232,0,16,Inbound,Middle East,Jill,126,0
+22717565,154,0,2,Outbound,Middle East,Jill,126,0
+15458032,2219,7,0,Outbound,Singapore,Jill,97,0
+19665949,5328,1,73,Inbound,Rest of Africa,Jill,193,73
+19665949,5976,23,56,Outbound,Rest of Africa,Jill,193,1288
+27723788,2233,3,26,Inbound,UK & W Europe,Jill,24,78
+27723788,2079,10,17,Outbound,UK & W Europe,Jill,24,170
+15091913,1264,0,4,Inbound,Middle East,Jill,116,0
+17639213,395,0,5,Inbound,India,Jill,252,0
+17639213,1027,10,3,Outbound,India,Jill,252,30
+18034552,380,0,5,Inbound,Singapore,Jill,241,0
+18034552,532,3,4,Outbound,Singapore,Jill,241,12
+28012619,130,1,0,Outbound,C China,Jill,19,0
+27723363,1738,0,22,Inbound,UK & W Europe,Jack,24,0
+27723363,1738,0,22,Inbound,UK & W Europe,Jill,16,0
+27723363,2844,21,14,Outbound,UK & W Europe,Jack,24,294
+27723363,2844,21,14,Outbound,UK & W Europe,Jill,16,294
+13862932,440,0,1,Inbound,Middle East,Jill,68,0
+13616081,442,1,0,Outbound,UK & W Europe,Jill,83,0
+22673605,836,0,11,Inbound,"Malaysia, Brunei, Philippines",Jill,126,0
+22673605,836,1,10,Outbound,"Malaysia, Brunei, Philippines",Jill,126,10
+25653315,5056,0,64,Inbound,"S Europe, Levant & N Africa",Jill,66,0
+25653315,6241,24,52,Outbound,"S Europe, Levant & N Africa",Jill,66,1248
+27421819,2106,8,19,Inbound,UK & W Europe,Jack,31,152
+27421819,2106,8,19,Inbound,UK & W Europe,Jill,11,152
+27421819,3432,35,8,Outbound,UK & W Europe,Jack,31,280
+27421819,3432,35,8,Outbound,UK & W Europe,Jill,11,280
+12872914,882,0,2,Inbound,"S Europe, Levant & N Africa",Jill,179,0
+22763475,869,0,11,Inbound,C China,Jill,118,0
+22763475,869,0,11,Inbound,C China,Jack,118,0
+22763475,1106,2,12,Outbound,C China,Jill,118,24
+22763475,1106,2,12,Outbound,C China,Jack,118,24
+22339083,355,0,5,Inbound,N China,Jill,136,0
+22339083,355,0,5,Outbound,N China,Jill,136,0
+18684419,2059,0,29,Inbound,Nigeria,Jill,222,0
+18684419,3905,27,27,Outbound,Nigeria,Jill,222,729
+14987583,2608,0,8,Inbound,UK & W Europe,Jill,91,0
+14987583,2608,0,8,Inbound,UK & W Europe,Jill,91,0
+14987583,2608,0,8,Inbound,UK & W Europe,Jill,122,0
+14987583,2282,1,6,Outbound,UK & W Europe,Jill,91,6
+14987583,2282,1,6,Outbound,UK & W Europe,Jill,91,6
+14987583,2282,1,6,Outbound,UK & W Europe,Jill,122,6
+15010852,1005,0,5,Inbound,Brazil,Jack,,0
+15010852,1005,0,5,Inbound,Brazil,Jack,201,0
+15010852,1005,0,5,Inbound,Brazil,Jill,192,0
+15010852,3417,6,0,Outbound,Brazil,Jack,,0
+15010852,3417,6,0,Outbound,Brazil,Jack,201,0
+15010852,3417,6,0,Outbound,Brazil,Jill,192,0
+15268554,2121,0,7,Inbound,LAM,Jill,56,0
+15268554,2121,0,7,Inbound,LAM,Jack,,0
+15268554,2727,0,9,Outbound,LAM,Jill,56,0
+15268554,2727,0,9,Outbound,LAM,Jack,,0
+13321672,3636,0,12,Inbound,Nigeria,Jill,173,0
+13321672,3636,0,12,Inbound,Nigeria,Jill,423,0
+13321672,3636,0,12,Inbound,Nigeria,Jack,,0
+13321672,5151,7,10,Outbound,Nigeria,Jill,173,70
+13321672,5151,7,10,Outbound,Nigeria,Jill,423,70
+13321672,5151,7,10,Outbound,Nigeria,Jack,,70
+15321743,579,0,3,Inbound,India,Jack,,0
+15321743,579,0,3,Inbound,India,Jack,,0
+15321743,579,0,3,Inbound,India,Jill,154,0
+15321743,386,2,0,Outbound,India,Jack,,0
+15321743,386,2,0,Outbound,India,Jack,,0
+15321743,386,2,0,Outbound,India,Jill,154,0
+13182345,854,0,2,Inbound,India,Jack,,0
+13182345,854,0,2,Inbound,India,Jill,115,0
+22109066,3472,2,54,Inbound,Nigeria,Jill,136,108
+22109066,4588,25,47,Outbound,Nigeria,Jill,136,1175
+13357842,193,1,0,Outbound,India,Jack,,0
+13357842,193,1,0,Outbound,India,Jill,301,0
+13641931,324,0,1,Inbound,Nigeria,Jill,320,0
+13641931,324,0,1,Inbound,Nigeria,Jill,210,0
+13641931,324,0,1,Inbound,Nigeria,Jack,,0
+13641931,972,1,2,Outbound,Nigeria,Jill,320,2
+13641931,972,1,2,Outbound,Nigeria,Jill,210,2
+13641931,972,1,2,Outbound,Nigeria,Jack,,2
+18059905,395,0,5,Inbound,Rest of Africa,Jill,385,0
+18059905,395,0,5,Inbound,Rest of Africa,Jill,248,0
+18059905,395,0,5,Inbound,Rest of Africa,Jill,147,0
+18059905,395,0,5,Inbound,Rest of Africa,Jill,490,0
+18059905,395,0,5,Inbound,Rest of Africa,Jack,,0
+18059905,1185,7,8,Outbound,Rest of Africa,Jill,385,56
+18059905,1185,7,8,Outbound,Rest of Africa,Jill,248,56
+18059905,1185,7,8,Outbound,Rest of Africa,Jill,147,56
+18059905,1185,7,8,Outbound,Rest of Africa,Jill,490,56
+18059905,1185,7,8,Outbound,Rest of Africa,Jack,,56
+18039475,6083,1,76,Inbound,Middle East,Jack,139,76
+18039475,6083,1,76,Inbound,Middle East,Jill,130,76
+18039475,5451,8,60,Outbound,Middle East,Jack,139,480
+18039475,5451,8,60,Outbound,Middle East,Jill,130,480
+15987341,317,1,0,Outbound,UK & W Europe,Jill,75,0
+18006766,1188,0,12,Inbound,N China,Jill,210,0
+18006766,594,0,6,Outbound,N China,Jill,210,0
+18113882,594,0,6,Inbound,W China,Jill,173,0
+18113882,495,1,4,Outbound,W China,Jill,173,4
+18114002,891,0,9,Inbound,NA,Jill,206,0
+18114002,693,1,6,Outbound,NA,Jill,206,6
+16599884,8876,0,28,Inbound,Rest of S Asia,Jill,40,0
+16599884,5072,8,8,Outbound,Rest of S Asia,Jill,40,64
+20516535,1770,0,10,Inbound,C China,Jill,45,0
+20516535,4779,13,11,Outbound,C China,Jill,45,143
+15341203,1470,0,15,Inbound,C China,Jill,308,0
+15341203,2058,2,19,Outbound,C China,Jill,308,38
+15536691,286,0,1,Inbound,Rest of Africa,Jill,105,0
+15536691,286,0,1,Inbound,Rest of Africa,Jack,192,0
+22058614,360,0,5,Inbound,Brazil,Jill,146,0
+22058614,432,3,3,Outbound,Brazil,Jill,146,9
+16980207,432,0,6,Inbound,LAM,Jack,299,0
+16980207,432,0,6,Inbound,LAM,Jill,278,0
+16980207,576,3,3,Outbound,LAM,Jack,299,9
+16980207,576,3,3,Outbound,LAM,Jill,278,9
+21029717,144,0,2,Inbound,LAM,Jill,173,0
+21029717,1368,13,4,Outbound,LAM,Jill,173,52
+24855132,504,0,7,Inbound,UK & W Europe,Jill,515,0
+24855132,504,0,7,Inbound,UK & W Europe,Jack,518,0
+24855132,864,1,11,Outbound,UK & W Europe,Jill,515,11
+24855132,864,1,11,Outbound,UK & W Europe,Jack,518,11
+17080016,648,0,9,Inbound,S China,Jill,276,0
+17080016,864,2,10,Outbound,S China,Jill,276,20
+24003140,342,0,6,Inbound,LAM,Jill,103,0
+24003140,342,3,3,Outbound,LAM,Jill,103,9
+23133014,456,0,8,Inbound,India,Jill,125,0
+23133014,1254,9,13,Outbound,India,Jill,125,117
+22390853,1482,0,26,Inbound,N China,Jill,143,0
+22390853,2052,14,22,Outbound,N China,Jill,143,308
+25138435,1495,0,23,Inbound,UK & W Europe,Jill,83,0
+25138435,1430,5,16,Outbound,UK & W Europe,Jill,83,80
+21788966,504,0,7,Inbound,"Malaysia, Brunei, Philippines",Jill,157,0
+21788966,1728,12,12,Outbound,"Malaysia, Brunei, Philippines",Jill,157,144
+18791020,3744,0,52,Inbound,Rest of Africa,Jill,224,0
+18791020,2880,7,27,Outbound,Rest of Africa,Jill,224,189
+23700729,1584,0,22,Inbound,UK & W Europe,Jill,94,0
+23700729,3456,26,21,Outbound,UK & W Europe,Jill,94,546
+18250992,576,0,8,Inbound,"Malaysia, Brunei, Philippines",Jill,242,0
+18250992,288,1,3,Outbound,"Malaysia, Brunei, Philippines",Jill,242,3
+19658796,2592,0,36,Inbound,Central Asia,Jill,200,0
+19658796,2736,12,26,Outbound,Central Asia,Jill,200,312
+20472203,3240,0,45,Inbound,UK & W Europe,Jill,185,0
+20472203,4680,23,41,Outbound,UK & W Europe,Jill,185,943
+15548656,648,0,2,Inbound,UK & W Europe,Jill,91,0
+15548656,648,0,2,Inbound,UK & W Europe,Jack,,0
+15635928,3220,0,10,Inbound,Middle East,Jill,76,0
+15635928,3220,0,10,Inbound,Middle East,Jack,,0
+15635928,7406,7,15,Outbound,Middle East,Jill,76,105
+15635928,7406,7,15,Outbound,Middle East,Jack,,105
+16339989,1008,8,6,Outbound,E China,Jill,305,48
+25484344,142,0,2,Outbound,N China,Jill,80,0
+15244143,324,0,1,Inbound,Nigeria,Jill,108,0
+15244143,648,2,0,Outbound,Nigeria,Jill,108,0
+21485892,2232,0,31,Inbound,UK & W Europe,Jill,160,0
+21485892,3096,23,18,Outbound,UK & W Europe,Jill,160,414
+27441666,3744,1,51,Inbound,Middle East,Jill,15,51
+27441666,6408,56,33,Outbound,Middle East,Jill,15,1848
+14949214,939,3,0,Outbound,E China,Jill,124,0
+26686426,2898,0,42,Inbound,UK & W Europe,Jill,46,0
+26686426,4278,22,40,Outbound,UK & W Europe,Jill,46,880
+23270217,432,0,6,Inbound,UK & W Europe,Jill,115,0
+23270217,288,0,3,Outbound,UK & W Europe,Jill,115,0
+15314707,648,1,1,Outbound,Middle East,Jill,103,1
+27106275,1820,25,1,Outbound,"S Europe, Levant & N Africa",Jill,43,25
+13324156,1744,0,4,Inbound,"S Europe, Levant & N Africa",Jill,133,0
+13324156,1744,1,3,Outbound,"S Europe, Levant & N Africa",Jill,133,3
+22780063,2736,0,38,Inbound,"S Europe, Levant & N Africa",Jill,97,0
+22780063,3672,4,46,Outbound,"S Europe, Levant & N Africa",Jill,97,184
+19098676,3744,1,51,Inbound,UK & W Europe,Jill,216,51
+19098676,4464,22,38,Outbound,UK & W Europe,Jill,216,836
+14504366,1688,0,4,Inbound,Middle East,Jill,38,0
+29067514,2622,0,46,Inbound,Middle East,Jill,-3,0
+29067514,2622,0,46,Inbound,Middle East,Jack,,0
+29067514,1482,23,2,Outbound,Middle East,Jill,-3,46
+29067514,1482,23,2,Outbound,Middle East,Jack,,46
+27393595,2924,0,43,Inbound,Middle East,Jack,38,0
+27393595,2924,0,43,Inbound,Middle East,Jill,33,0
+27393595,1972,21,2,Outbound,Middle East,Jack,38,42
+27393595,1972,21,2,Outbound,Middle East,Jill,33,42
+18789082,1368,1,18,Inbound,N China,Jill,224,18
+18789082,2880,23,17,Outbound,N China,Jill,224,391
+23131612,2592,0,36,Inbound,Middle East,Jill,125,0
+23131612,2232,12,15,Outbound,Middle East,Jill,125,180
+22637367,5112,1,70,Inbound,Middle East,Jill,131,70
+22637367,5544,24,46,Outbound,Middle East,Jill,131,1104
+17330115,1224,0,17,Inbound,LAM,Jill,266,0
+17330115,1152,6,8,Outbound,LAM,Jill,266,48
+24036528,432,0,6,Inbound,Korea,Jill,108,0
+24036528,1080,4,10,Outbound,Korea,Jill,108,40
+21076866,2808,0,39,Inbound,Iran,Jill,150,0
+21076866,4320,17,42,Outbound,Iran,Jill,150,714
+25050248,1584,0,22,Inbound,India,Jill,89,0
+25050248,4104,26,31,Outbound,India,Jill,89,806
+17403264,2088,0,29,Inbound,Eastern Europe,Jill,265,0
+17403264,2664,13,24,Outbound,Eastern Europe,Jill,265,312
+15320196,504,0,7,Inbound,E China,Jill,356,0
+15320196,216,2,1,Outbound,E China,Jill,356,2
+13675898,2916,0,9,Inbound,"S Europe, Levant & N Africa",Jill,-132,0
+13675898,2916,0,9,Inbound,"S Europe, Levant & N Africa",Jack,426,0
+13675898,2916,0,9,Inbound,"S Europe, Levant & N Africa",Jill,187,0
+13675898,2916,0,9,Inbound,"S Europe, Levant & N Africa",Jack,190,0
+13675898,2592,5,3,Outbound,"S Europe, Levant & N Africa",Jill,-132,15
+13675898,2592,5,3,Outbound,"S Europe, Levant & N Africa",Jack,426,15
+13675898,2592,5,3,Outbound,"S Europe, Levant & N Africa",Jill,187,15
+13675898,2592,5,3,Outbound,"S Europe, Levant & N Africa",Jack,190,15
+18476794,1430,0,22,Inbound,N China,Jill,215,0
+18476794,1430,0,22,Inbound,N China,Jack,235,0
+18476794,845,2,11,Outbound,N China,Jill,215,22
+18476794,845,2,11,Outbound,N China,Jack,235,22
+28140964,455,0,7,Inbound,E China,Jill,19,0
+28140964,130,0,2,Outbound,E China,Jill,19,0
+21390107,1152,0,18,Inbound,E China,Jill,173,0
+21390107,1344,10,11,Outbound,E China,Jill,173,110
+22101622,1078,0,7,Inbound,E China,Jill,55,0
+22102432,1064,0,7,Inbound,E China,Jill,55,0
+22102432,152,0,1,Outbound,E China,Jill,55,0
+22259157,462,0,3,Inbound,E China,Jill,14,0
+22259157,462,0,3,Inbound,E China,Jack,54,0
+22259157,308,0,2,Outbound,E China,Jill,14,0
+22259157,308,0,2,Outbound,E China,Jack,54,0
+22101453,320,0,5,Inbound,E China,Jack,154,0
+22101453,320,0,5,Inbound,E China,Jill,109,0
+22101453,448,3,4,Outbound,E China,Jack,154,12
+22101453,448,3,4,Outbound,E China,Jill,109,12
+22102595,384,0,6,Inbound,E China,Jill,111,0
+22102595,384,0,6,Inbound,E China,Jack,153,0
+22102595,640,3,7,Outbound,E China,Jill,111,21
+22102595,640,3,7,Outbound,E China,Jack,153,21
+22104210,320,0,5,Inbound,E China,Jill,112,0
+22104210,320,0,5,Inbound,E China,Jill,153,0
+22104210,384,2,4,Outbound,E China,Jill,112,8
+22104210,384,2,4,Outbound,E China,Jill,153,8
+29239347,448,0,7,Inbound,E China,Jill,6,0
+29239347,384,3,3,Outbound,E China,Jill,6,9
+22305966,2119,0,13,Inbound,N China,Jill,52,0
+22305966,652,0,4,Outbound,N China,Jill,52,0
+22591891,163,0,1,Inbound,N China,Jill,42,0
+22591891,489,0,3,Outbound,N China,Jill,42,0
+22595215,1672,0,11,Inbound,N China,Jill,32,0
+22595215,1672,0,11,Inbound,N China,Jack,42,0
+22595215,760,0,5,Outbound,N China,Jill,32,0
+22595215,760,0,5,Outbound,N China,Jack,42,0
+23321722,2771,0,17,Inbound,N China,Jill,32,0
+23321722,489,0,3,Outbound,N China,Jill,32,0
+23375643,192,0,3,Inbound,N China,Jill,130,0
+23375643,704,6,5,Outbound,N China,Jill,130,30
+23479684,192,0,3,Inbound,N China,Jack,126,0
+23479684,192,0,3,Inbound,N China,Jill,103,0
+23479684,576,3,6,Outbound,N China,Jack,126,18
+23479684,576,3,6,Outbound,N China,Jill,103,18
+24518275,192,0,3,Inbound,N China,Jill,104,0
+24518275,384,2,4,Outbound,N China,Jill,104,8
+25396902,64,0,1,Inbound,Singapore,Jill,89,0
+25396902,256,2,2,Outbound,Singapore,Jill,89,4
+22932048,1467,0,9,Inbound,N China,Jill,39,0
+22932048,489,1,2,Outbound,N China,Jill,39,2
+25711704,1152,0,18,Inbound,UK & W Europe,Jill,80,0
+25711704,2624,36,3,Outbound,UK & W Europe,Jill,80,108
+29910773,220,0,5,Inbound,Middle East,Jill,-16,0
+29910773,396,8,1,Outbound,Middle East,Jill,-16,8
+15268335,1890,6,0,Outbound,Middle East,Jill,99,0
+15268335,1890,6,0,Outbound,Middle East,Jill,-132,0
+26165226,65,0,1,Inbound,E China,Jill,72,0
+26165226,65,0,1,Inbound,E China,Jack,153,0
+26165226,195,2,1,Outbound,E China,Jill,72,2
+26165226,195,2,1,Outbound,E China,Jack,153,2
+22259012,130,0,2,Inbound,E China,Jill,152,0
+22259012,260,1,3,Outbound,E China,Jill,152,3
+23844172,396,0,9,Inbound,E China,Jill,118,0
+23844172,528,5,7,Outbound,E China,Jill,118,35
+28641274,1040,0,16,Inbound,UK & W Europe,Jack,19,0
+28641274,1040,0,16,Inbound,UK & W Europe,Jill,18,0
+28641274,1105,7,10,Outbound,UK & W Europe,Jack,19,70
+28641274,1105,7,10,Outbound,UK & W Europe,Jill,18,70
+15536614,2890,0,10,Inbound,Iran,Jill,98,0
+15536614,4046,8,6,Outbound,Iran,Jill,98,48
+15210509,316,1,0,Inbound,"S Europe, Levant & N Africa",Jack,,0
+15210509,316,1,0,Inbound,"S Europe, Levant & N Africa",Jill,104,0
+15210509,1264,4,0,Outbound,"S Europe, Levant & N Africa",Jack,,0
+15210509,1264,4,0,Outbound,"S Europe, Levant & N Africa",Jill,104,0
+29311001,88,2,0,Inbound,"S Europe, Levant & N Africa",Jill,4,0
+29311001,176,4,0,Outbound,"S Europe, Levant & N Africa",Jill,4,0
+14670606,951,0,3,Inbound,UK & W Europe,Jill,146,0
+14670606,951,0,3,Inbound,UK & W Europe,Jack,207,0
+14670606,634,0,2,Outbound,UK & W Europe,Jill,146,0
+14670606,634,0,2,Outbound,UK & W Europe,Jack,207,0
+25522173,1044,1,17,Inbound,"S Europe, Levant & N Africa",Jill,227,17
+25522173,870,11,2,Outbound,"S Europe, Levant & N Africa",Jill,227,22
+28431694,986,1,16,Inbound,Singapore,Jill,20,16
+28431694,812,5,9,Outbound,Singapore,Jill,20,45
+14755425,578,0,2,Inbound,"Vietnam, Cambodia, Laos, Myanmar",Jack,140,0
+14755425,578,0,2,Inbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,138,0
+14755425,14161,33,16,Outbound,"Vietnam, Cambodia, Laos, Myanmar",Jack,140,528
+14755425,14161,33,16,Outbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,138,528
+28350094,975,0,15,Inbound,UK & W Europe,Jill,25,0
+28350094,780,7,4,Outbound,UK & W Europe,Jill,25,28
+26347582,195,0,3,Inbound,S China,Jill,69,0
+26347582,520,6,2,Outbound,S China,Jill,69,12
+26789659,65,0,1,Inbound,E China,Jill,57,0
+26789659,65,0,1,Inbound,E China,Jack,153,0
+26789659,130,1,1,Outbound,E China,Jill,57,1
+26789659,130,1,1,Outbound,E China,Jack,153,1
+29307760,1881,0,33,Inbound,UK & W Europe,Jill,-6,0
+29307760,2850,19,25,Outbound,UK & W Europe,Jill,-6,475
+24918100,715,1,10,Inbound,"S Europe, Levant & N Africa",Jill,97,10
+24918100,1950,17,13,Outbound,"S Europe, Levant & N Africa",Jill,97,221
+22102295,195,0,3,Inbound,E China,Jill,153,0
+22102295,390,4,2,Outbound,E China,Jill,153,8
+25040308,130,0,2,Inbound,E China,Jill,96,0
+25040308,520,2,6,Outbound,E China,Jill,96,12
+24903821,2665,1,40,Inbound,Middle East,Jill,98,40
+24903821,1625,6,15,Outbound,Middle East,Jill,98,90
+15947533,951,0,3,Outbound,"S Europe, Levant & N Africa",Jack,,0
+15947533,951,0,3,Outbound,"S Europe, Levant & N Africa",Jill,77,0
+28437905,88,2,0,Outbound,Hong Kong,Jill,23,0
+22102764,130,0,2,Inbound,E China,Jill,153,0
+22102764,260,1,3,Outbound,E China,Jill,153,3
+18730219,910,0,14,Inbound,S China,Jack,,0
+18730219,910,0,14,Inbound,S China,Jill,231,0
+18730219,195,0,2,Outbound,S China,Jack,,0
+18730219,195,0,2,Outbound,S China,Jill,231,0
+24001696,420,0,6,Inbound,N China,Jill,108,0
+24001696,280,3,1,Outbound,N China,Jill,108,3
+27501144,290,0,5,Inbound,UK & W Europe,Jill,34,0
+27501144,406,0,7,Outbound,UK & W Europe,Jill,34,0
+28345777,1820,3,23,Inbound,Rest of Africa,Jill,105,69
+28345777,1260,5,13,Outbound,Rest of Africa,Jill,105,65
+16554451,5389,0,17,Inbound,Middle East,Jill,33,0
+26161350,210,0,3,Inbound,N China,Jill,65,0
+26161350,1050,7,4,Outbound,N China,Jill,65,28
+22105733,1224,0,17,Inbound,E China,Jill,112,0
+22105733,432,0,6,Outbound,E China,Jill,112,0
+19591328,4032,2,54,Inbound,UK & W Europe,Jack,206,108
+19591328,4032,2,54,Inbound,UK & W Europe,Jill,185,108
+19591328,6696,36,57,Outbound,UK & W Europe,Jack,206,2052
+19591328,6696,36,57,Outbound,UK & W Europe,Jill,185,2052
+28374489,220,3,2,Inbound,Rest of Africa,Jill,22,6
+28374489,528,12,0,Outbound,Rest of Africa,Jill,22,0
+18763621,1755,0,27,Inbound,Pakistan,Jill,234,0
+18763621,2925,23,20,Outbound,Pakistan,Jill,234,460
+24910466,1690,0,26,Inbound,Middle East,Jill,96,0
+24910466,1040,10,3,Outbound,Middle East,Jill,96,30
+15509050,296,0,1,Inbound,Russia,Jill,252,0
+15509050,296,0,1,Inbound,Russia,Jill,123,0
+15509050,1184,1,3,Outbound,Russia,Jill,252,3
+15509050,1184,1,3,Outbound,Russia,Jill,123,3
+17366938,6447,1,20,Inbound,UK & W Europe,Jill,3,20
+17366938,7982,13,13,Outbound,UK & W Europe,Jill,3,169
+22100361,216,0,3,Inbound,E China,Jill,146,0
+22100361,288,1,3,Outbound,E China,Jill,146,3
+23989941,144,0,2,Inbound,N China,Jill,108,0
+23989941,288,2,2,Outbound,N China,Jill,108,4
+25356067,210,0,3,Inbound,N China,Jill,82,0
+25356067,280,1,3,Outbound,N China,Jill,82,3
+15862592,280,3,1,Outbound,Brazil,Jill,87,3
+15862592,280,3,1,Outbound,Brazil,Jill,329,3
+15862592,280,3,1,Outbound,Brazil,Jill,395,3
+27394507,1400,0,20,Inbound,UK & W Europe,Jill,30,0
+27394507,1260,0,18,Outbound,UK & W Europe,Jill,30,0
+14837647,972,0,3,Inbound,N China,Jill,126,0
+22101773,216,0,3,Inbound,E China,Jill,143,0
+22101773,288,3,1,Outbound,E China,Jill,143,3
+15947532,2584,1,7,Inbound,Middle East,Jill,67,7
+15947532,2584,1,7,Inbound,Middle East,Jill,-132,7
+15947532,646,2,0,Outbound,Middle East,Jill,67,0
+15947532,646,2,0,Outbound,Middle East,Jill,-132,0
+16205790,1620,0,5,Inbound,Taiwan/Japan,Jill,61,0
+16205790,1296,1,1,Outbound,Taiwan/Japan,Jill,61,1
+15313994,14736,2,46,Inbound,Rest of Africa,Jill,104,92
+15313994,29779,25,72,Outbound,Rest of Africa,Jill,104,1800
+15074278,416,0,1,Outbound,NA,Jack,12,0
+15074278,416,0,1,Outbound,NA,Jill,7,0
+15836655,2592,0,8,Inbound,E China,Jill,28,0
+15836655,2592,0,8,Inbound,E China,Jill,77,0
+15836655,324,0,1,Outbound,E China,Jill,28,0
+15836655,324,0,1,Outbound,E China,Jill,77,0
+11351468,1598,0,2,Inbound,UK & W Europe,Jill,146,0
+17880150,3100,10,0,Outbound,UK & W Europe,Jill,-4,0
+18791278,355,0,5,Inbound,Middle East,Jill,224,0
+16339438,1860,0,6,Inbound,NA,Jill,53,0
+16339438,930,2,1,Outbound,NA,Jill,53,2
+17074634,210,0,3,Inbound,Middle East,Jill,278,0
+17074634,280,1,3,Outbound,Middle East,Jill,278,3
+16908951,2414,0,34,Inbound,Middle East,Jill,284,0
+16908951,2130,8,22,Outbound,Middle East,Jill,284,176
+18789188,2130,0,30,Inbound,Middle East,Jill,227,0
+18789188,1704,4,20,Outbound,Middle East,Jill,227,80
+18979854,1420,0,20,Inbound,Middle East,Jill,220,0
+18979854,2130,10,20,Outbound,Middle East,Jill,220,200
+15107036,497,6,1,Outbound,C China,Jill,234,6
+15107036,497,6,1,Outbound,C China,Jill,368,6
+15107036,497,6,1,Outbound,C China,Jill,525,6
+21711870,497,0,7,Inbound,Middle East,Jill,159,0
+22336453,355,0,5,Inbound,Middle East,Jill,143,0
+23420684,142,0,2,Inbound,Middle East,Jill,122,0
+23470651,213,0,3,Inbound,Middle East,Jill,119,0
+23070557,3337,0,47,Inbound,Middle East,Jill,126,0
+23070557,3692,19,33,Outbound,Middle East,Jill,126,627
+27064138,1633,0,23,Inbound,UK & W Europe,Jill,45,0
+27064138,923,5,8,Outbound,UK & W Europe,Jill,45,40
+16491320,648,0,2,Inbound,UK & W Europe,Jill,47,0
+16491320,648,1,1,Outbound,UK & W Europe,Jill,47,1
+15928090,1260,0,4,Inbound,Middle East,Jill,75,0
+15928090,2205,3,3,Outbound,Middle East,Jill,75,9
+14543608,2424,0,8,Inbound,Rest of Africa,Jill,230,0
+14543608,2424,0,8,Inbound,Rest of Africa,Jill,105,0
+14543608,303,1,0,Outbound,Rest of Africa,Jill,230,0
+14543608,303,1,0,Outbound,Rest of Africa,Jill,105,0
+16420562,639,0,9,Inbound,N China,Jill,300,0
+16420562,639,1,8,Outbound,N China,Jill,300,8
+18506683,1562,0,22,Inbound,Rest of Africa,Jill,234,0
+18506683,2201,11,20,Outbound,Rest of Africa,Jill,234,220
+17878490,1917,3,24,Inbound,Middle East,Jill,252,72
+17878490,1065,8,6,Outbound,Middle East,Jill,252,48
+16570363,1296,0,18,Inbound,Central Asia,Jill,294,0
+16570363,936,5,8,Outbound,Central Asia,Jill,294,40
+25530041,1491,0,21,Inbound,Middle East,Jill,73,0
+25530041,1207,5,6,Outbound,Middle East,Jill,73,30
+16135369,1152,1,15,Inbound,Middle East,Jill,313,15
+16135369,1008,0,12,Outbound,Middle East,Jill,313,0
+16420358,1512,0,21,Inbound,N China,Jill,300,0
+16420358,144,1,1,Outbound,N China,Jill,300,1
+15318352,1008,0,14,Inbound,N China,Jill,356,0
+15318352,576,0,8,Outbound,N China,Jill,356,0
+19876174,2592,0,36,Inbound,Korea,Jill,198,0
+19876174,1944,10,17,Outbound,Korea,Jill,198,170
+17295037,3100,0,10,Inbound,"Malaysia, Brunei, Philippines",Jill,115,0
+17295037,9610,23,8,Outbound,"Malaysia, Brunei, Philippines",Jill,115,184
+25396275,923,0,13,Inbound,Pakistan,Jill,81,0
+25396275,1065,4,11,Outbound,Pakistan,Jill,81,44
+26194799,780,3,9,Inbound,UK & W Europe,Jill,65,27
+26194799,1235,13,5,Outbound,UK & W Europe,Jill,65,65
+16363165,864,0,12,Inbound,E China,Jill,304,0
+16363165,360,4,1,Outbound,E China,Jill,304,4
+16388586,1008,0,14,Inbound,S China,Jill,301,0
+16388586,288,3,1,Outbound,S China,Jill,301,3
+16801578,2232,0,31,Inbound,S China,Jill,285,0
+26191370,348,0,6,Inbound,S China,Jill,79,0
+26191370,638,7,4,Outbound,S China,Jill,79,28
+23748141,1160,0,20,Inbound,Middle East,Jill,122,0
+23748141,1798,14,17,Outbound,Middle East,Jill,122,238
+25488234,1425,0,25,Inbound,UK & W Europe,Jill,91,0
+25488234,1425,4,21,Outbound,UK & W Europe,Jill,91,84
+15709722,1860,0,6,Inbound,Middle East,Jill,97,0
+15709722,2170,1,6,Outbound,Middle East,Jill,97,6
+26191258,1102,0,19,Inbound,Middle East,Jill,76,0
+26191258,2494,9,33,Outbound,Middle East,Jill,76,297
+12386988,427,1,0,Outbound,Rest of Africa,Jill,235,0
+15363429,307,0,1,Outbound,Rest of Africa,Jill,305,0
+15363429,307,0,1,Outbound,Rest of Africa,Jill,115,0
+14044337,1240,1,3,Outbound,Rest of Africa,Jill,185,3
+14729992,3504,0,12,Inbound,LAM,Jill,224,0
+14729992,3796,1,12,Outbound,LAM,Jill,224,12
+16762563,2166,0,38,Inbound,UK & W Europe,Jill,301,0
+16762563,2793,9,38,Outbound,UK & W Europe,Jill,301,342
+27441744,114,0,2,Inbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,51,0
+27441744,969,9,7,Outbound,"Vietnam, Cambodia, Laos, Myanmar",Jill,51,63
+26711750,754,0,13,Inbound,W China,Jill,68,0
+26711750,638,8,3,Outbound,W China,Jill,68,24
+28593320,1102,1,18,Inbound,Middle East,Jill,194,18
+28593320,580,2,8,Outbound,Middle East,Jill,194,16
+26490353,2146,2,35,Inbound,Middle East,Jill,72,70
+26490353,1914,16,16,Outbound,Middle East,Jill,72,256
+25751119,232,0,4,Inbound,UK & W Europe,Jill,82,0
+25751119,406,4,3,Outbound,UK & W Europe,Jill,82,12
+28114142,1254,0,22,Inbound,Middle East,Jill,37,0
+28114142,342,5,1,Outbound,Middle East,Jill,37,5
+14993421,1550,0,5,Inbound,Middle East,Jill,119,0
+14993421,1550,0,5,Inbound,Middle East,Jack,133,0
+14989942,1240,0,4,Inbound,Middle East,Jack,133,0
+14989942,1240,0,4,Inbound,Middle East,Jill,126,0
+13389930,1860,0,6,Inbound,Rest of Africa,Jill,208,0
+13389930,1860,0,6,Inbound,Rest of Africa,Jack,,0
+13389930,1240,1,2,Outbound,Rest of Africa,Jill,208,2
+13389930,1240,1,2,Outbound,Rest of Africa,Jack,,2
+15465443,4624,2,14,Inbound,"S Europe, Levant & N Africa",Jill,292,28
+15465443,4624,2,14,Inbound,"S Europe, Levant & N Africa",Jill,111,28
+15465443,4913,8,8,Outbound,"S Europe, Levant & N Africa",Jill,292,64
+15465443,4913,8,8,Outbound,"S Europe, Levant & N Africa",Jill,111,64
+26390194,580,0,10,Inbound,"S Europe, Levant & N Africa",Jill,75,0
+26390194,870,8,4,Outbound,"S Europe, Levant & N Africa",Jill,75,32
+23031543,58,0,1,Outbound,Russia,Jill,252,0
+15402030,930,0,3,Outbound,Russia,Jill,174,0
+15402030,930,0,3,Outbound,Russia,Jill,112,0
+24556712,638,0,11,Inbound,Rest of Africa,Jill,112,0
+24556712,522,2,7,Outbound,Rest of Africa,Jill,112,14
+14423208,1240,4,0,Outbound,Korea,Jill,167,0
+15662810,310,1,0,Outbound,Nepal,Jill,101,0
+19779562,1682,0,29,Inbound,Hong Kong,Jill,216,0
+19779562,2204,13,25,Outbound,Hong Kong,Jill,216,325
+28781854,2408,1,55,Inbound,Taiwan/Japan,Jill,23,55
+28781854,1849,13,30,Outbound,Taiwan/Japan,Jill,23,390
+15393783,620,0,2,Inbound,Rest of Africa,Jill,105,0
+27326820,110,0,2,Inbound,Nigeria,Jill,147,0
+27326820,715,11,2,Outbound,Nigeria,Jill,147,22
+19067783,1508,0,26,Inbound,"S Europe, Levant & N Africa",Jill,231,0
+19067783,1856,19,7,Outbound,"S Europe, Levant & N Africa",Jill,231,133
+21503507,1160,0,20,Inbound,UK & W Europe,Jill,175,0
+21503507,1160,0,20,Inbound,UK & W Europe,Jack,544,0
+21503507,4060,56,13,Outbound,UK & W Europe,Jill,175,728
+21503507,4060,56,13,Outbound,UK & W Europe,Jack,544,728
+23494831,406,0,7,Inbound,UK & W Europe,Jill,131,0
+23494831,1160,13,6,Outbound,UK & W Europe,Jill,131,78
+24358009,1008,0,18,Inbound,Taiwan/Japan,Jill,115,0
+24358009,1680,12,16,Outbound,Taiwan/Japan,Jill,115,192
+25444793,290,4,1,Outbound,NA,Jill,178,4
+22732810,1972,0,34,Inbound,UK & W Europe,Jill,147,0
+22732810,3480,28,32,Outbound,UK & W Europe,Jill,147,896
+16762713,5833,0,19,Inbound,N China,Jill,49,0
+16762713,2149,2,5,Outbound,N China,Jill,49,10
+13443314,435,0,1,Inbound,"S Europe, Levant & N Africa",Jill,115,0
+24767436,288,2,2,Inbound,Middle East,Jill,94,4
+24767436,1440,16,3,Outbound,Middle East,Jill,94,48
+27441330,840,0,12,Inbound,Middle East,Jill,37,0
+27441330,840,5,2,Outbound,Middle East,Jill,37,10
+25490055,1080,0,15,Inbound,UK & W Europe,Jill,77,0
+25490055,648,5,4,Outbound,UK & W Europe,Jill,77,20
+15944637,864,0,12,Inbound,Middle East,Jill,325,0
+15944637,864,0,12,Inbound,Middle East,Jill,238,0
+15944637,216,1,2,Outbound,Middle East,Jill,325,2
+15944637,216,1,2,Outbound,Middle East,Jill,238,2
+24851809,378,4,2,Inbound,Nigeria,Jill,91,8
+24851809,1071,11,6,Outbound,Nigeria,Jill,91,66
+21844947,504,0,7,Inbound,Indonesia,Jill,153,0
+21844947,1368,11,7,Outbound,Indonesia,Jill,153,77
+21763941,1512,0,21,Inbound,Middle East,Jill,157,0
+21763941,2160,9,21,Outbound,Middle East,Jill,157,189
+24342624,2196,2,34,Inbound,Middle East,Jill,103,68
+24342624,1952,4,26,Outbound,Middle East,Jill,103,104
+23288191,288,0,4,Inbound,UK & W Europe,Jill,122,0
+23288191,648,3,5,Outbound,UK & W Europe,Jill,122,15
+23751042,2436,3,39,Inbound,UK & W Europe,Jill,115,117
+23751042,2378,16,24,Outbound,UK & W Europe,Jill,115,384
+15824108,1284,2,2,Outbound,Rest of Africa,Jill,80,4
+24391242,1368,0,19,Inbound,Middle East,Jill,277,0
+24391242,504,5,2,Outbound,Middle East,Jill,277,10
+25743068,1008,0,14,Inbound,Middle East,Jill,198,0
+25743068,1080,8,4,Outbound,Middle East,Jill,198,32
+13675392,9016,0,28,Inbound,Rest of Africa,Jill,189,0
+13675392,9016,0,28,Inbound,Rest of Africa,Jack,200,0
+13675392,1288,2,1,Outbound,Rest of Africa,Jill,189,2
+13675392,1288,2,1,Outbound,Rest of Africa,Jack,200,2
+21777986,720,0,10,Inbound,Korea,Jill,157,0
+21777986,432,0,6,Outbound,Korea,Jill,157,0
+21070580,210,0,3,Inbound,Korea,Jill,171,0
+21070580,350,0,5,Outbound,Korea,Jill,171,0
+21069994,1380,0,20,Inbound,Singapore,Jill,171,0
+21069994,759,0,11,Outbound,Singapore,Jill,171,0
+17293291,4800,0,15,Inbound,Middle East,Jill,19,0
+20794783,325,0,5,Inbound,Rest of Africa,Jill,178,0
+20794783,1105,8,7,Outbound,Rest of Africa,Jill,178,56
+27340800,210,1,2,Inbound,UK & W Europe,Jill,40,2
+27340800,420,4,2,Outbound,UK & W Europe,Jill,40,8
+20434981,648,0,9,Inbound,S China,Jill,159,0
+20434981,648,0,9,Inbound,S China,Jack,186,0
+20434981,216,0,3,Outbound,S China,Jill,159,0
+20434981,216,0,3,Outbound,S China,Jack,186,0
+16493944,324,0,1,Inbound,S China,Jill,47,0
+21345120,648,0,9,Inbound,S China,Jill,167,0
+21345120,648,0,9,Inbound,S China,Jack,313,0
+21345120,216,0,3,Outbound,S China,Jill,167,0
+21345120,216,0,3,Outbound,S China,Jack,313,0
+14979630,7350,25,0,Outbound,Hong Kong,Jill,150,0
+14979630,7350,25,0,Outbound,Hong Kong,Jill,160,0
+15312450,492,0,2,Inbound,Middle East,Jill,175,0
+15312450,246,0,1,Outbound,Middle East,Jill,175,0
+21764270,237,0,3,Inbound,E China,Jill,150,0
+21764270,1501,12,7,Outbound,E China,Jill,150,84
+23681973,414,0,6,Inbound,E China,Jill,108,0
+23681973,1104,7,9,Outbound,E China,Jill,108,63
+27012692,488,0,8,Inbound,N China,Jill,34,0
+27012692,732,6,6,Outbound,N China,Jill,34,36
+27141905,546,0,7,Inbound,N China,Jill,37,0
+27141905,936,7,5,Outbound,N China,Jill,37,35
+21836685,156,0,2,Inbound,N China,Jill,147,0
+21836685,858,6,5,Outbound,N China,Jill,147,30
+18477158,1185,0,15,Inbound,N China,Jill,228,0
+18477158,316,1,3,Outbound,N China,Jill,228,3
+18075707,624,0,8,Inbound,N China,Jill,234,0
+18075707,468,1,5,Outbound,N China,Jill,234,5
+17105109,390,0,6,Inbound,Brazil,Jill,269,0
+17105109,2145,14,1,Outbound,Brazil,Jill,269,14
+18311688,2240,1,31,Inbound,Middle East,Jill,231,31
+18311688,5040,39,32,Outbound,Middle East,Jill,231,1248
+13272579,442,0,1,Outbound,UK & W Europe,Jill,147,0
+13272579,442,0,1,Outbound,UK & W Europe,Jill,284,0
+27299262,1083,1,18,Inbound,UK & W Europe,Jill,33,18
+27299262,1653,9,19,Outbound,UK & W Europe,Jill,33,171
+15466380,316,0,1,Outbound,Central Asia,Jill,82,0
+15466380,316,0,1,Outbound,Central Asia,Jill,-132,0
+16550222,544,0,8,Inbound,N China,Jill,287,0
+16550222,1360,7,13,Outbound,N China,Jill,287,91
+22451985,1001,0,13,Inbound,N China,Jill,126,0
+22451985,1001,0,13,Inbound,N China,Jack,132,0
+22451985,1694,5,17,Outbound,N China,Jill,126,85
+22451985,1694,5,17,Outbound,N China,Jack,132,85
+16388962,711,0,9,Inbound,Hong Kong,Jill,294,0
+16388962,553,3,4,Outbound,Hong Kong,Jill,294,12
+23394416,395,0,5,Inbound,Middle East,Jill,115,0
+23286518,158,0,2,Inbound,E China,Jill,117,0
+23286518,948,5,7,Outbound,E China,Jill,117,35
+15193253,632,0,2,Inbound,Rest of Africa,Jill,104,0
+15193253,632,0,2,Inbound,Rest of Africa,Jill,-132,0
+15193253,632,2,0,Outbound,Rest of Africa,Jill,104,0
+15193253,632,2,0,Outbound,Rest of Africa,Jill,-132,0
+20890508,711,0,9,Inbound,Central Asia,Jill,167,0
+20890508,948,2,10,Outbound,Central Asia,Jill,167,20
+16200829,1482,0,19,Inbound,Rest of Africa,Jill,305,0
+16200829,1794,5,18,Outbound,Rest of Africa,Jill,305,90
+18458186,2310,0,30,Inbound,LAM,Jack,224,0
+18458186,2310,0,30,Inbound,LAM,Jill,210,0
+18458186,2156,11,14,Outbound,LAM,Jack,224,154
+18458186,2156,11,14,Outbound,LAM,Jill,210,154
+24362585,994,0,14,Inbound,UK & W Europe,Jill,96,0
+24362585,2201,22,8,Outbound,UK & W Europe,Jill,96,176
+27358739,912,0,12,Inbound,UK & W Europe,Jill,32,0
+27358739,1824,12,11,Outbound,UK & W Europe,Jill,32,132
+23319693,1950,0,25,Inbound,Korea,Jill,117,0
+23319693,546,5,2,Outbound,Korea,Jill,117,10
+23016849,2340,0,30,Inbound,UK & W Europe,Jill,119,0
+23016849,3120,10,30,Outbound,UK & W Europe,Jill,119,300
+23688929,3160,1,39,Inbound,UK & W Europe,Jill,105,39
+23688929,4345,11,44,Outbound,UK & W Europe,Jill,105,484
+26536710,390,0,5,Inbound,N China,Jill,48,0
+26536710,390,4,1,Outbound,N China,Jill,48,4
+15707086,1926,0,6,Inbound,N China,Jill,-132,0
+15707086,1926,0,6,Inbound,N China,Jill,77,0
+15707086,1284,0,4,Outbound,N China,Jill,-132,0
+15707086,1284,0,4,Outbound,N China,Jill,77,0
+15105298,3597,0,11,Inbound,N China,Jill,109,0
+15105298,3597,0,11,Inbound,N China,Jill,-132,0
+16366643,329,0,1,Inbound,S China,Jill,-132,0
+16366643,329,0,1,Inbound,S China,Jill,46,0
+17116595,790,0,10,Inbound,W China,Jill,266,0
+17116595,158,0,2,Outbound,W China,Jill,266,0
+22455408,624,0,8,Inbound,W China,Jill,131,0
+22455408,156,0,1,Outbound,W China,Jill,131,0
+15068408,1296,1,3,Inbound,Singapore,Jill,-132,3
+15068408,1296,1,3,Inbound,Singapore,Jill,111,3
+15068408,1296,1,3,Inbound,Singapore,Jack,293,3
+14279677,426,0,1,Outbound,Central Asia,Jill,49,0
+24138237,3120,0,40,Inbound,Middle East,Jill,89,0
+24138237,2418,12,16,Outbound,Middle East,Jill,89,192
+21399185,1080,0,15,Inbound,N China,Jill,130,0
+21399185,1080,0,15,Inbound,N China,Jack,157,0
+21399185,1080,0,15,Inbound,N China,Jack,,0
+21399185,1080,0,15,Outbound,N China,Jill,130,0
+21399185,1080,0,15,Outbound,N China,Jack,157,0
+21399185,1080,0,15,Outbound,N China,Jack,,0
+26481384,1560,0,24,Inbound,Middle East,Jill,66,0
+26481384,780,5,5,Outbound,Middle East,Jill,66,25
+23478781,2445,0,15,Inbound,Middle East,Jill,26,0
+23478781,2771,6,11,Outbound,Middle East,Jill,26,66
+22975423,325,0,5,Inbound,S China,Jill,137,0
+22975423,650,7,2,Outbound,S China,Jill,137,14
+16533339,1908,0,9,Inbound,UK & W Europe,Jack,280,0
+16533339,1908,0,9,Inbound,UK & W Europe,Jill,147,0
+16533339,1908,0,9,Inbound,UK & W Europe,Jill,231,0
+16533339,1908,1,6,Outbound,UK & W Europe,Jack,280,6
+16533339,1908,1,6,Outbound,UK & W Europe,Jill,147,6
+16533339,1908,1,6,Outbound,UK & W Europe,Jill,231,6
+26729426,1116,6,12,Inbound,C China,Jill,61,72
+26729426,1860,19,11,Outbound,C China,Jill,61,209
+13431539,1302,0,6,Inbound,S China,Jill,171,0
+13431539,1302,0,6,Inbound,S China,Jack,341,0
+13431539,1302,0,6,Inbound,S China,Jill,276,0
+13431539,1736,6,2,Outbound,S China,Jill,171,12
+13431539,1736,6,2,Outbound,S China,Jack,341,12
+13431539,1736,6,2,Outbound,S China,Jill,276,12
+18313387,1197,0,19,Inbound,C China,Jill,245,0
+18313387,189,0,3,Outbound,C China,Jill,245,0
+23701521,1512,0,28,Inbound,UK & W Europe,Jill,126,0
+23701521,2862,30,22,Outbound,UK & W Europe,Jill,126,660
+14656015,842,0,2,Inbound,Middle East,Jill,41,0
+14656015,1684,0,4,Outbound,Middle East,Jill,41,0
+15816714,320,0,1,Outbound,W China,Jill,80,0
+24807407,216,0,3,Inbound,E China,Jill,94,0
+24807407,288,1,3,Outbound,E China,Jill,94,3
+23420988,284,0,4,Inbound,Middle East,Jill,119,0
+23113792,355,0,5,Inbound,Middle East,Jill,126,0
+23113792,71,0,1,Outbound,Middle East,Jill,126,0
+20748387,2494,3,40,Inbound,Russia,Jill,192,120
+20748387,2436,11,31,Outbound,Russia,Jill,192,341
+26108733,1160,0,20,Inbound,UK & W Europe,Jill,64,0
+26108733,1856,9,23,Outbound,UK & W Europe,Jill,64,207
+25492637,57,0,1,Outbound,LAM,Jill,199,0
+15093435,310,0,1,Outbound,Middle East,Jill,129,0
+14008469,2075,0,5,Inbound,Nigeria,Jill,151,0
+14008469,415,0,1,Outbound,Nigeria,Jill,151,0
+16267267,620,0,2,Outbound,Rest of Africa,Jill,70,0
+27982353,1276,0,22,Inbound,"S Europe, Levant & N Africa",Jill,33,0
+27982353,3480,35,25,Outbound,"S Europe, Levant & N Africa",Jill,33,875
+26397566,2726,4,43,Inbound,UK & W Europe,Jill,74,172
+26397566,2146,16,20,Outbound,UK & W Europe,Jill,74,320
+28355693,2204,2,36,Inbound,UK & W Europe,Jill,32,72
+28355693,1392,2,21,Outbound,UK & W Europe,Jill,32,42
+26493678,1276,0,22,Inbound,Middle East,Jill,72,0
+26493678,1160,13,3,Outbound,Middle East,Jill,72,39
+22454255,464,0,8,Inbound,Rest of S Asia,Jill,116,0
+22454255,754,5,8,Outbound,Rest of S Asia,Jill,116,40
+18448579,3190,3,52,Inbound,UK & W Europe,Jill,250,156
+18448579,3480,13,47,Outbound,UK & W Europe,Jill,250,611
+16704870,1102,0,19,Inbound,"S Europe, Levant & N Africa",Jill,304,0
+16704870,1450,12,13,Outbound,"S Europe, Levant & N Africa",Jill,304,156
+18017985,888,0,3,Inbound,Pakistan,Jill,10,0
+18017985,2072,5,2,Outbound,Pakistan,Jill,10,10
+19263137,5104,4,84,Inbound,Nigeria,Jill,229,336
+19263137,6670,25,86,Outbound,Nigeria,Jill,229,2150
+23852464,1450,1,24,Inbound,Nigeria,Jill,122,24
+23852464,3654,28,31,Outbound,Nigeria,Jill,122,868
+26763540,1760,1,39,Inbound,Rest of Africa,Jill,60,39
+26763540,2640,27,30,Outbound,Rest of Africa,Jill,60,810
+25711164,639,0,9,Inbound,LAM,Jill,61,0
+25711164,639,3,6,Outbound,LAM,Jill,61,18
+23320305,1704,0,24,Inbound,Middle East,Jill,124,0
+23320305,2556,15,14,Outbound,Middle East,Jill,124,210
+13357283,441,1,0,Inbound,Middle East,Jill,102,0
+19628937,497,0,7,Inbound,Middle East,Jill,206,0
+19628937,355,0,5,Outbound,Middle East,Jill,206,0
+22097642,426,0,6,Inbound,Middle East,Jill,147,0
+22409881,213,0,3,Inbound,Middle East,Jill,140,0
+22411263,355,0,5,Inbound,Middle East,Jill,140,0
+22433893,355,0,5,Inbound,Middle East,Jill,140,0
+22433893,71,0,1,Outbound,Middle East,Jill,140,0
+23366669,852,0,12,Inbound,Middle East,Jill,94,0
+23366669,213,0,3,Outbound,Middle East,Jill,94,0
+23419253,355,0,5,Inbound,Middle East,Jill,122,0
+23470827,213,0,3,Inbound,Middle East,Jill,119,0
+23470747,176,0,4,Inbound,Middle East,Jill,119,0
+23774711,142,0,2,Inbound,Middle East,Jill,94,0
+23470464,138,0,2,Inbound,Middle East,Jill,119,0
+14709089,972,2,1,Outbound,India,Jill,138,2
+26158312,744,0,12,Inbound,Nigeria,Jack,,0
+26158312,744,0,12,Inbound,Nigeria,Jill,60,0
+26158312,1364,6,16,Outbound,Nigeria,Jack,,96
+26158312,1364,6,16,Outbound,Nigeria,Jill,60,96
+22600509,1136,0,16,Inbound,Middle East,Jack,,0
+22600509,1136,0,16,Inbound,Middle East,Jill,124,0
+22600509,2343,22,10,Outbound,Middle East,Jack,,220
+22600509,2343,22,10,Outbound,Middle East,Jill,124,220
+28947166,627,0,11,Inbound,UK & W Europe,Jill,3,0
+28947166,2394,39,3,Outbound,UK & W Europe,Jill,3,117
+22764326,576,0,8,Inbound,Middle East,Jill,133,0
+22764326,72,0,1,Outbound,Middle East,Jill,133,0
+18004102,2304,2,30,Inbound,Middle East,Jill,248,60
+18004102,3312,20,24,Outbound,Middle East,Jill,248,480
+15271939,2754,0,9,Inbound,LAM,Jill,-132,0
+15271939,2754,0,9,Inbound,LAM,Jill,99,0
+15271939,918,1,2,Outbound,LAM,Jill,-132,2
+15271939,918,1,2,Outbound,LAM,Jill,99,2
+15921693,1884,0,6,Inbound,UK & W Europe,Jill,67,0
+15921693,1884,0,6,Inbound,UK & W Europe,Jill,-132,0
+15921693,314,1,0,Outbound,UK & W Europe,Jill,67,0
+15921693,314,1,0,Outbound,UK & W Europe,Jill,-132,0
+17073134,2001,1,28,Inbound,Middle East,Jack,277,28
+17073134,2001,1,28,Inbound,Middle East,Jill,256,28
+17073134,4071,20,39,Outbound,Middle East,Jack,277,780
+17073134,4071,20,39,Outbound,Middle East,Jill,256,780
+22691756,1105,0,17,Inbound,Nigeria,Jill,133,0
+22691756,3185,20,28,Outbound,Nigeria,Jill,133,560
+13385705,436,0,1,Inbound,Middle East,Jill,123,0
+20838418,798,1,13,Inbound,"S Europe, Levant & N Africa",Jill,174,13
+20838418,1824,14,17,Outbound,"S Europe, Levant & N Africa",Jill,174,238
+26440548,144,0,2,Outbound,UK & W Europe,Jill,60,0
+13284858,972,1,2,Inbound,UK & W Europe,Jill,-132,2
+13284858,972,1,2,Inbound,UK & W Europe,Jill,253,2
+13284858,324,1,0,Outbound,UK & W Europe,Jill,-132,0
+13284858,324,1,0,Outbound,UK & W Europe,Jill,253,0
+13153698,5328,0,74,Inbound,Middle East,Jill,322,0
+13153698,5328,0,74,Inbound,Middle East,Jack,525,0
+13153698,5328,0,74,Inbound,Middle East,Jack,430,0
+13153698,1872,10,12,Outbound,Middle East,Jill,322,120
+13153698,1872,10,12,Outbound,Middle East,Jack,525,120
+13153698,1872,10,12,Outbound,Middle East,Jack,430,120
+15537871,328,0,1,Outbound,Middle East,Jill,85,0
+15537871,328,0,1,Outbound,Middle East,Jill,144,0
+15537871,328,0,1,Outbound,Middle East,Jill,-132,0
+20749874,2016,0,28,Inbound,Middle East,Jill,174,0
+20749874,576,0,5,Outbound,Middle East,Jill,174,0
+15324345,328,0,1,Outbound,"S Europe, Levant & N Africa",Jill,124,0
+15324345,328,0,1,Outbound,"S Europe, Levant & N Africa",Jill,-132,0
+15324345,328,0,1,Outbound,"S Europe, Levant & N Africa",Jill,97,0
+27056487,936,0,13,Inbound,"Malaysia, Brunei, Philippines",Jill,46,0
+27056487,648,3,6,Outbound,"Malaysia, Brunei, Philippines",Jill,46,18
+24191123,216,0,3,Inbound,Thailand,Jill,91,0
+24191123,360,2,3,Outbound,Thailand,Jill,91,6
+22764745,792,2,9,Inbound,Middle East,Jill,133,18
+22764745,144,1,1,Outbound,Middle East,Jill,133,1
+22766115,648,0,9,Inbound,Middle East,Jill,133,0
+22780480,432,0,6,Inbound,Middle East,Jill,133,0
+22927285,864,0,12,Inbound,Middle East,Jill,131,0
+22915774,360,0,5,Inbound,Middle East,Jill,131,0
+22915755,648,0,9,Inbound,Middle East,Jill,131,0
+22916620,504,0,7,Inbound,Middle East,Jill,131,0
+22916824,360,0,5,Inbound,Middle East,Jill,131,0
+22917022,432,0,6,Inbound,Middle East,Jill,131,0
+22917724,648,0,9,Inbound,Middle East,Jill,131,0
+22917724,72,0,1,Outbound,Middle East,Jill,131,0
+22920741,792,0,11,Inbound,Middle East,Jill,131,0
+23018984,792,0,11,Inbound,Middle East,Jill,130,0
+23020080,648,0,9,Inbound,Middle East,Jill,130,0
+23035107,720,0,10,Inbound,Middle East,Jill,129,0
+23035441,504,0,7,Inbound,Middle East,Jill,129,0
+23037067,576,0,8,Inbound,Middle East,Jill,129,0
+23037610,504,0,7,Inbound,Middle East,Jill,129,0
+23037610,72,0,1,Outbound,Middle East,Jill,129,0
+23070199,216,0,3,Inbound,Middle East,Jill,126,0
+23070359,504,0,7,Inbound,Middle East,Jill,126,0
+23087898,144,0,2,Inbound,Middle East,Jill,126,0
+23118625,576,0,8,Inbound,Middle East,Jill,126,0
+23118625,216,0,0,Outbound,Middle East,Jill,126,0
+23685916,288,0,4,Inbound,Middle East,Jill,117,0
+21844623,1872,0,26,Inbound,NA,Jill,242,0
+21844623,936,2,11,Outbound,NA,Jill,242,22
+25523520,2016,0,28,Inbound,UK & W Europe,Jill,76,0
+25523520,3384,19,28,Outbound,UK & W Europe,Jill,76,532
+25488522,432,0,6,Inbound,India,Jill,77,0
+25488522,1008,6,7,Outbound,India,Jill,77,42
+16796818,2790,0,9,Inbound,"S Europe, Levant & N Africa",Jill,33,0
+16796818,6200,11,8,Outbound,"S Europe, Levant & N Africa",Jill,33,88
+17308979,4755,0,15,Inbound,Middle East,Jill,16,0
+26204982,1296,0,18,Inbound,UK & W Europe,Jill,61,0
+26204982,2016,9,19,Outbound,UK & W Europe,Jill,61,171
+27769696,798,0,14,Inbound,"Malaysia, Brunei, Philippines",Jill,30,0
+27769696,1083,14,4,Outbound,"Malaysia, Brunei, Philippines",Jill,30,56
+15385252,323,0,1,Outbound,Middle East,Jill,98,0
+15385252,323,0,1,Outbound,Middle East,Jill,336,0
+24558154,2130,0,30,Inbound,N China,Jill,98,0
+24558154,355,2,3,Outbound,N China,Jill,98,6
+27384890,142,0,2,Inbound,India,Jill,38,0
+27384890,284,1,3,Outbound,India,Jill,38,3
+20116216,864,0,12,Inbound,LAM,Jill,194,0
+20116216,648,5,4,Outbound,LAM,Jill,194,20
+16977995,2160,0,30,Inbound,Nigeria,Jill,278,0
+16977995,2520,5,29,Outbound,Nigeria,Jill,278,145
+26007520,4473,2,61,Inbound,Pakistan,Jill,68,122
+26007520,5183,12,60,Outbound,Pakistan,Jill,68,720
+26761575,1800,0,25,Inbound,N China,Jill,53,0
+26761575,2088,10,18,Outbound,N China,Jill,53,180
+27685463,1349,0,19,Inbound,Singapore,Jill,32,0
+27685463,639,2,7,Outbound,Singapore,Jill,32,14
+17173846,1491,0,21,Inbound,NA,Jill,266,0
+17173846,2627,7,22,Outbound,NA,Jill,266,154
+26347715,568,0,8,Inbound,E China,Jill,76,0
+26347715,710,0,10,Outbound,E China,Jill,76,0
+13140639,648,0,9,Inbound,Singapore,Jack,528,0
+13140639,648,0,9,Inbound,Singapore,Jill,486,0
+13140639,576,3,5,Outbound,Singapore,Jack,528,15
+13140639,576,3,5,Outbound,Singapore,Jill,486,15
+25128613,710,0,10,Inbound,Singapore,Jill,87,0
+25128613,781,4,7,Outbound,Singapore,Jill,87,28
+17636365,1207,0,17,Inbound,Singapore,Jill,259,0
+17636365,1349,8,11,Outbound,Singapore,Jill,259,88
+19555303,1800,0,25,Inbound,N China,Jill,206,0
+19555303,1152,6,10,Outbound,N China,Jill,206,60
+26204455,2059,0,29,Inbound,Hong Kong,Jill,63,0
+26204455,1846,2,24,Outbound,Hong Kong,Jill,63,48
+21032651,2769,1,38,Inbound,Rest of S Asia,Jill,173,38
+21032651,3408,20,28,Outbound,Rest of S Asia,Jill,173,560
+13349077,936,0,13,Inbound,Singapore,Jill,473,0
+13349077,936,0,13,Inbound,Singapore,Jack,488,0
+13349077,1008,5,9,Outbound,Singapore,Jill,473,45
+13349077,1008,5,9,Outbound,Singapore,Jack,488,45
+16013016,1008,0,14,Inbound,Nigeria,Jill,320,0
+16013016,1152,3,13,Outbound,Nigeria,Jill,320,39
+15666932,288,0,4,Inbound,UK & W Europe,Jill,339,0
+15666932,360,2,3,Outbound,UK & W Europe,Jill,339,6
+16972893,497,0,7,Inbound,NA,Jill,280,0
+16972893,284,1,3,Outbound,NA,Jill,280,3
+22408832,1491,0,21,Inbound,NA,Jill,138,0
+22408832,1704,0,24,Outbound,NA,Jill,138,0
+19586695,1365,0,21,Inbound,Russia,Jill,206,0
+19586695,1365,6,15,Outbound,Russia,Jill,206,90
+16524586,1944,2,25,Inbound,NA,Jill,298,50
+16524586,2376,2,31,Outbound,NA,Jill,298,62
+18829577,2520,0,35,Inbound,UK & W Europe,Jill,216,0
+18829577,1944,15,10,Outbound,UK & W Europe,Jill,216,150
+19818834,3080,0,44,Inbound,W China,Jill,200,0
+19818834,6790,39,58,Outbound,W China,Jill,200,2262
+18067804,2343,0,33,Inbound,Middle East,Jill,248,0
+18067804,3266,16,29,Outbound,Middle East,Jill,248,464
+22303159,781,0,11,Inbound,N China,Jill,143,0
+22303159,355,0,3,Outbound,N China,Jill,143,0
+18450610,1323,0,21,Inbound,LAM,Jill,220,0
+18450610,1071,8,8,Outbound,LAM,Jill,220,64
+22985609,390,0,6,Inbound,Middle East,Jill,137,0
+22985609,520,1,3,Outbound,Middle East,Jill,137,3
+23278863,1560,0,24,Inbound,India,Jack,,0
+23278863,1560,0,24,Inbound,India,Jill,103,0
+23278863,1820,8,20,Outbound,India,Jack,,160
+23278863,1820,8,20,Outbound,India,Jill,103,160
+25042694,305,4,1,Outbound,Nigeria,Jill,272,4
+26982426,1170,0,18,Inbound,N China,Jill,53,0
+26982426,3835,31,24,Outbound,N China,Jill,53,744
+18279774,1495,0,23,Inbound,LAM,Jill,248,0
+18279774,1625,5,20,Outbound,LAM,Jill,248,100
+17871845,2535,0,39,Inbound,NA,Jill,259,0
+17871845,3185,7,41,Outbound,NA,Jill,259,287
+14024901,324,0,1,Outbound,Middle East,Jill,172,0
+14024901,324,0,1,Outbound,Middle East,Jack,175,0
+15377762,1296,3,1,Outbound,Korea,Jill,98,3
+27108243,65,0,1,Outbound,Nigeria,Jill,52,0
+24364118,975,1,14,Inbound,Middle East,Jill,105,14
+24364118,1365,6,15,Outbound,Middle East,Jill,105,90
+25173748,1088,0,17,Inbound,"S Europe, Levant & N Africa",Jill,91,0
+25173748,1408,4,18,Outbound,"S Europe, Levant & N Africa",Jill,91,72
+20449070,1920,0,30,Inbound,"S Europe, Levant & N Africa",Jill,193,0
+20449070,3200,18,32,Outbound,"S Europe, Levant & N Africa",Jill,193,576
+29999156,836,0,19,Inbound,UK & W Europe,Jill,-12,0
+29999156,616,13,0,Outbound,UK & W Europe,Jill,-12,0
+27982411,440,1,7,Inbound,"S Europe, Levant & N Africa",Jill,33,7
+27982411,1210,9,8,Outbound,"S Europe, Levant & N Africa",Jill,33,72
+24084607,1350,3,22,Inbound,"S Europe, Levant & N Africa",Jill,108,66
+24084607,1350,3,22,Inbound,"S Europe, Levant & N Africa",Jack,,66
+24084607,2808,36,13,Outbound,"S Europe, Levant & N Africa",Jill,108,468
+24084607,2808,36,13,Outbound,"S Europe, Levant & N Africa",Jack,,468
+15467660,648,0,2,Inbound,UK & W Europe,Jill,95,0
+15467660,1620,1,3,Outbound,UK & W Europe,Jill,95,3
+14934926,2268,0,7,Inbound,UK & W Europe,Jill,124,0
+14934926,2268,0,7,Inbound,UK & W Europe,Jill,161,0
+14934926,2592,0,8,Outbound,UK & W Europe,Jill,124,0
+14934926,2592,0,8,Outbound,UK & W Europe,Jill,161,0
+27794187,64,1,0,Inbound,UK & W Europe,Jill,37,0
+27794187,128,1,1,Outbound,UK & W Europe,Jill,37,1
+14182065,884,2,0,Outbound,UK & W Europe,Jack,,0
+14182065,884,2,0,Outbound,UK & W Europe,Jill,47,0
+18313058,910,0,14,Inbound,Middle East,Jill,245,0
+18313058,3315,34,14,Outbound,Middle East,Jill,245,476
+28141192,2072,1,36,Inbound,Pakistan,Jill,248,36
+28141192,2072,1,36,Inbound,Pakistan,Jack,80,36
+28141192,2072,1,36,Inbound,Pakistan,Jack,194,36
+28141192,1680,9,21,Outbound,Pakistan,Jill,248,189
+28141192,1680,9,21,Outbound,Pakistan,Jack,80,189
+28141192,1680,9,21,Outbound,Pakistan,Jack,194,189
+19110253,1584,2,34,Inbound,Rest of Africa,Jack,,68
+19110253,1584,2,34,Inbound,Rest of Africa,Jill,220,68
+19110253,3036,26,43,Outbound,Rest of Africa,Jack,,1118
+19110253,3036,26,43,Outbound,Rest of Africa,Jill,220,1118
+25765965,650,1,9,Inbound,"S Europe, Levant & N Africa",Jill,77,9
+25765965,1625,11,14,Outbound,"S Europe, Levant & N Africa",Jill,77,154
+28703872,648,0,12,Inbound,"S Europe, Levant & N Africa",Jill,24,0
+28703872,1458,15,12,Outbound,"S Europe, Levant & N Africa",Jill,24,180
+19063512,3648,0,57,Inbound,UK & W Europe,Jill,224,0
+19063512,4224,25,41,Outbound,UK & W Europe,Jill,224,1025
+23022492,195,0,3,Inbound,LAM,Jill,136,0
+23022492,195,2,1,Outbound,LAM,Jill,136,2
+15467851,3100,0,10,Inbound,Central Asia,Jill,96,0
+15467851,3410,0,11,Outbound,Central Asia,Jill,96,0
+20517353,2232,0,36,Inbound,Central Asia,Jill,189,0
+20517353,4588,26,47,Outbound,Central Asia,Jill,189,1222
+15680376,324,0,1,Inbound,UK & W Europe,Jill,83,0
+15680376,972,1,2,Outbound,UK & W Europe,Jill,83,2
+20794535,3315,0,51,Inbound,Middle East,Jill,185,0
+20794535,2600,18,13,Outbound,Middle East,Jill,185,234
+13318227,648,0,2,Inbound,Middle East,Jill,248,0
+13318227,972,0,3,Outbound,Middle East,Jill,248,0
+25440217,4160,0,64,Inbound,Middle East,Jill,84,0
+25440217,1625,5,16,Outbound,Middle East,Jill,84,80
+19067076,325,0,5,Inbound,Hong Kong,Jill,224,0
+19067076,1235,10,9,Outbound,Hong Kong,Jill,224,90
+15484684,324,1,0,Outbound,"Malaysia, Brunei, Philippines",Jill,95,0
+17871128,585,0,9,Inbound,"S Europe, Levant & N Africa",Jill,259,0
+17871128,390,0,6,Outbound,"S Europe, Levant & N Africa",Jill,259,0
+15193837,520,0,8,Inbound,"Malaysia, Brunei, Philippines",Jill,369,0
+15193837,455,0,7,Outbound,"Malaysia, Brunei, Philippines",Jill,369,0
+23624402,610,0,10,Inbound,Pakistan,Jill,125,0
+23624402,2623,33,8,Outbound,Pakistan,Jill,125,264
+21073470,3250,0,50,Inbound,UK & W Europe,Jill,178,0
+21073470,4095,39,22,Outbound,UK & W Europe,Jill,178,858
+23688848,4224,1,65,Inbound,Central Asia,Jill,122,65
+23688848,6272,42,55,Outbound,Central Asia,Jill,122,2310
+20435217,455,0,7,Inbound,S China,Jill,192,0
+20435217,260,3,0,Outbound,S China,Jill,192,0
+18976119,585,0,9,Inbound,"S Europe, Levant & N Africa",Jill,228,0
+18976119,1105,2,14,Outbound,"S Europe, Levant & N Africa",Jill,228,28
+14300891,2520,0,8,Inbound,LAM,Jill,161,0
+14300891,5670,5,13,Outbound,LAM,Jill,161,65
+15108138,9090,0,30,Inbound,UK & W Europe,Jill,207,0
+15108138,9090,0,30,Inbound,UK & W Europe,Jill,116,0
+15108138,9090,22,8,Outbound,UK & W Europe,Jill,207,176
+15108138,9090,22,8,Outbound,UK & W Europe,Jill,116,176
+15090922,7416,1,23,Inbound,UK & W Europe,Jack,115,23
+15090922,7416,1,23,Inbound,UK & W Europe,Jill,110,23
+15090922,11124,10,26,Outbound,UK & W Europe,Jack,115,260
+15090922,11124,10,26,Outbound,UK & W Europe,Jill,110,260
+23832078,1040,0,16,Inbound,India,Jill,118,0
+23832078,2535,15,22,Outbound,India,Jill,118,330
+15380315,1570,5,0,Outbound,Middle East,Jill,133,0
+16266144,604,2,0,Outbound,Middle East,Jill,56,0
+21958882,1495,1,22,Inbound,Rest of Africa,Jill,158,22
+21958882,3120,21,26,Outbound,Rest of Africa,Jill,158,546
+24408170,976,0,16,Inbound,LAM,Jill,89,0
+24408170,1098,1,16,Outbound,LAM,Jill,89,16
+24805583,715,0,11,Inbound,UK & W Europe,Jill,259,0
+24805583,715,0,11,Inbound,UK & W Europe,Jack,241,0
+24805583,975,4,8,Outbound,UK & W Europe,Jill,259,32
+24805583,975,4,8,Outbound,UK & W Europe,Jack,241,32
+14401965,4860,2,13,Inbound,Rest of Africa,Jill,157,26
+14401965,4860,2,13,Outbound,Rest of Africa,Jill,157,26
+25345768,819,1,12,Inbound,Nigeria,Jill,87,12
+25345768,1701,13,14,Outbound,Nigeria,Jill,87,182
+18543958,455,0,7,Inbound,Pakistan,Jill,238,0
+18543958,520,4,4,Outbound,Pakistan,Jill,238,16
+19306218,1040,0,16,Inbound,Rest of Africa,Jill,220,0
+19306218,975,0,15,Outbound,Rest of Africa,Jill,220,0
+26431125,845,0,13,Inbound,Rest of Africa,Jill,66,0
+26431125,455,0,7,Outbound,Rest of Africa,Jill,66,0
+25862647,260,0,4,Inbound,LAM,Jill,76,0
+25862647,325,1,4,Outbound,LAM,Jill,76,4
+20470779,1495,0,23,Inbound,Middle East,Jill,189,0
+20470779,3055,26,17,Outbound,Middle East,Jill,189,442
+19067661,1040,0,16,Inbound,"S Europe, Levant & N Africa",Jill,224,0
+19067661,845,8,4,Outbound,"S Europe, Levant & N Africa",Jill,224,32
+28426225,2405,0,37,Inbound,UK & W Europe,Jill,23,0
+28426225,2535,11,27,Outbound,UK & W Europe,Jill,23,297
+27828256,845,6,7,Inbound,Middle East,Jill,36,42
+27828256,1755,13,12,Outbound,Middle East,Jill,36,156
+26006305,1488,0,24,Inbound,Rest of Africa,Jill,75,0
+26006305,1674,6,20,Outbound,Rest of Africa,Jill,75,120
+29351599,990,0,18,Inbound,Middle East,Jill,3,0
+29351599,1045,15,3,Outbound,Middle East,Jill,3,45
+14164746,429,0,1,Outbound,"S Europe, Levant & N Africa",Jill,63,0
+14468426,585,0,9,Inbound,NA,Jill,410,0
+14468426,585,0,9,Inbound,NA,Jack,,0
+14468426,390,0,6,Outbound,NA,Jill,410,0
+14468426,390,0,6,Outbound,NA,Jack,,0
+27972039,1105,1,16,Inbound,UK & W Europe,Jill,33,16
+27972039,1235,5,13,Outbound,UK & W Europe,Jill,33,65
+20562202,3055,0,47,Inbound,LAM,Jill,187,0
+20562202,4745,40,32,Outbound,LAM,Jill,187,1280
+21834634,130,0,2,Inbound,LAM,Jill,161,0
+21834634,455,5,2,Outbound,LAM,Jill,161,10
+20898529,260,0,4,Inbound,LAM,Jill,181,0
+20898529,1040,10,5,Outbound,LAM,Jill,181,50
+23986585,650,0,10,Inbound,UK & W Europe,Jill,112,0
+23986585,390,1,5,Outbound,UK & W Europe,Jill,112,5
+28027776,455,0,7,Inbound,UK & W Europe,Jill,40,0
+28027776,520,6,2,Outbound,UK & W Europe,Jill,40,12
+27969686,392,0,7,Inbound,Nigeria,Jill,33,0
+27969686,728,1,11,Outbound,Nigeria,Jill,33,11
+25521885,740,0,20,Inbound,Rest of Africa,Jill,83,0
+25521885,703,3,16,Outbound,Rest of Africa,Jill,83,48
+26351589,390,0,6,Inbound,Rest of S Asia,Jill,66,0
+26351589,390,0,6,Inbound,Rest of S Asia,Jack,308,0
+26351589,650,4,6,Outbound,Rest of S Asia,Jill,66,24
+26351589,650,4,6,Outbound,Rest of S Asia,Jack,308,24
+20136869,1105,0,17,Inbound,Middle East,Jill,196,0
+20136869,975,2,13,Outbound,Middle East,Jill,196,26
+20405317,1056,0,24,Inbound,Middle East,Jill,126,0
+20405317,1056,0,24,Inbound,Middle East,Jack,193,0
+20405317,3652,44,39,Outbound,Middle East,Jill,126,1716
+20405317,3652,44,39,Outbound,Middle East,Jack,193,1716
+12387828,436,0,1,Outbound,Rest of Africa,Jill,228,0
+16767419,7608,0,24,Inbound,LAM,Jill,42,0
+16767419,6657,3,2,Outbound,LAM,Jill,42,6
+13493428,310,0,1,Outbound,Middle East,Jill,189,0
+13493428,310,0,1,Outbound,Middle East,Jack,206,0
+18794637,2205,0,35,Inbound,Rest of Africa,Jill,231,0
+18794637,3591,18,38,Outbound,Rest of Africa,Jill,231,684
+23849701,128,0,2,Inbound,Rest of Africa,Jill,119,0
+23849701,320,0,5,Outbound,Rest of Africa,Jill,119,0
+15363519,317,0,1,Outbound,"S Europe, Levant & N Africa",Jill,108,0
+18304453,1600,0,25,Inbound,"S Europe, Levant & N Africa",Jill,248,0
+18304453,1984,3,27,Outbound,"S Europe, Levant & N Africa",Jill,248,81
+23842942,64,0,1,Inbound,Central Asia,Jill,119,0
+23842942,576,2,7,Outbound,Central Asia,Jill,119,14
+19390123,2745,4,41,Inbound,Nigeria,Jill,215,164
+19390123,2318,17,20,Outbound,Nigeria,Jill,215,340
+13354275,433,1,0,Inbound,Middle East,Jill,115,0
+13354275,433,1,0,Outbound,Middle East,Jill,115,0
+15482093,2496,0,39,Inbound,"S Europe, Levant & N Africa",Jill,341,0
+15482093,640,5,3,Outbound,"S Europe, Levant & N Africa",Jill,341,15
+13049888,317,0,1,Outbound,"S Europe, Levant & N Africa",Jack,368,0
+13049888,317,0,1,Outbound,"S Europe, Levant & N Africa",Jill,291,0
+23385439,1716,1,38,Inbound,LAM,Jill,126,38
+23385439,2112,18,28,Outbound,LAM,Jill,126,504
+15394551,951,0,3,Outbound,Russia,Jill,105,0
+15686283,317,1,0,Outbound,S China,Jill,91,0
+26841167,305,0,5,Inbound,Taiwan/Japan,Jill,57,0
+26841167,488,2,6,Outbound,Taiwan/Japan,Jill,57,12
+16262084,951,0,3,Inbound,Middle East,Jill,63,0
+23773864,192,0,3,Inbound,Middle East,Jill,122,0
+16554845,1585,4,1,Outbound,Korea,Jill,97,4
+16554845,1585,4,1,Outbound,Korea,Jill,215,4
+15145638,290,0,5,Inbound,LAM,Jill,370,0
+15145638,174,0,3,Outbound,LAM,Jill,370,0
+16339535,384,0,6,Inbound,Russia,Jill,312,0
+16339535,256,0,4,Outbound,Russia,Jill,312,0
+28622767,1408,1,21,Inbound,UK & W Europe,Jill,19,21
+28622767,1536,10,14,Outbound,UK & W Europe,Jill,19,140
+23371507,1792,0,28,Inbound,"S Europe, Levant & N Africa",Jill,126,0
+23371507,3456,26,19,Outbound,"S Europe, Levant & N Africa",Jill,126,494
+27981817,522,0,9,Inbound,"S Europe, Levant & N Africa",Jill,32,0
+27981817,1160,17,3,Outbound,"S Europe, Levant & N Africa",Jill,32,51
+27358762,384,0,6,Inbound,UK & W Europe,Jill,26,0
+27358762,384,0,6,Inbound,UK & W Europe,Jack,46,0
+27358762,2048,31,0,Outbound,UK & W Europe,Jill,26,0
+27358762,2048,31,0,Outbound,UK & W Europe,Jack,46,0
+26679605,768,0,12,Inbound,"S Europe, Levant & N Africa",Jill,244,0
+26679605,1920,17,13,Outbound,"S Europe, Levant & N Africa",Jill,244,221
+21216114,1792,0,28,Inbound,UK & W Europe,Jill,138,0
+21216114,3584,10,45,Outbound,UK & W Europe,Jill,138,450
+22069696,65,0,1,Inbound,Middle East,Jill,153,0
+22677874,1032,1,23,Inbound,Rest of Africa,Jill,140,23
+22677874,2107,16,32,Outbound,Rest of Africa,Jill,140,512
+24342057,1404,0,26,Inbound,UK & W Europe,Jill,75,0
+24342057,1404,0,26,Inbound,UK & W Europe,Jack,110,0
+24342057,1404,10,15,Outbound,UK & W Europe,Jill,75,150
+24342057,1404,10,15,Outbound,UK & W Europe,Jack,110,150
+26762435,732,1,11,Inbound,Rest of S Asia,Jill,57,11
+26762435,1220,10,10,Outbound,Rest of S Asia,Jill,57,100
+13870952,1736,3,1,Inbound,"S Europe, Levant & N Africa",Jill,61,3
+13870952,2604,5,1,Outbound,"S Europe, Levant & N Africa",Jill,61,5
+17262479,2240,0,35,Inbound,LAM,Jill,279,0
+17262479,1664,3,7,Outbound,LAM,Jill,279,21
+24390184,768,0,12,Inbound,Singapore,Jill,62,0
+24390184,768,0,12,Inbound,Singapore,Jill,109,0
+24390184,512,3,5,Outbound,Singapore,Jill,62,15
+24390184,512,3,5,Outbound,Singapore,Jill,109,15
+27814914,2112,0,33,Inbound,"Malaysia, Brunei, Philippines",Jill,37,0
+27814914,1088,14,1,Outbound,"Malaysia, Brunei, Philippines",Jill,37,14
+12779069,634,0,2,Inbound,Middle East,Jack,313,0
+12779069,634,0,2,Inbound,Middle East,Jill,101,0
+12779069,634,0,2,Inbound,Middle East,Jack,595,0
+12779069,634,0,2,Outbound,Middle East,Jack,313,0
+12779069,634,0,2,Outbound,Middle East,Jill,101,0
+12779069,634,0,2,Outbound,Middle East,Jack,595,0
+23829251,256,0,4,Inbound,Middle East,Jill,192,0
+13708861,324,0,1,Inbound,Nigeria,Jill,266,0
+13708861,324,0,1,Inbound,Nigeria,Jack,,0
+13601384,324,1,0,Outbound,Indonesia,Jill,201,0
+27829413,2080,6,26,Inbound,Singapore,Jill,14,156
+27829413,1885,19,9,Outbound,Singapore,Jill,14,171
+15533230,3564,0,11,Inbound,S China,Jack,94,0
+15533230,3564,0,11,Inbound,S China,Jill,89,0
+15533230,1296,4,0,Outbound,S China,Jack,94,0
+15533230,1296,4,0,Outbound,S China,Jill,89,0
+14740003,1212,2,2,Inbound,Middle East,Jack,146,4
+14740003,1212,2,2,Inbound,Middle East,Jill,143,4
+14740003,4545,15,0,Outbound,Middle East,Jack,146,0
+14740003,4545,15,0,Outbound,Middle East,Jill,143,0
+16388554,11470,1,36,Inbound,NA,Jill,62,36
+16388554,11780,1,37,Outbound,NA,Jill,62,37
+27972242,1102,0,19,Inbound,Thailand,Jill,40,0
+27972242,1102,8,5,Outbound,Thailand,Jill,40,40
+25657842,704,1,15,Inbound,Middle East,Jill,132,15
+25657842,968,8,8,Outbound,Middle East,Jill,132,64
+26982251,1792,0,32,Inbound,NA,Jill,39,0
+26982251,616,5,5,Outbound,NA,Jill,39,25
+18343312,2552,0,44,Inbound,UK & W Europe,Jill,249,0
+18343312,2552,0,44,Inbound,UK & W Europe,Jack,,0
+18343312,1450,5,14,Outbound,UK & W Europe,Jill,249,70
+18343312,1450,5,14,Outbound,UK & W Europe,Jack,,70
+14773141,930,3,0,Outbound,"Malaysia, Brunei, Philippines",Jill,147,0
+25445060,264,0,6,Inbound,Middle East,Jill,94,0
+25445060,572,7,5,Outbound,Middle East,Jill,94,35
+22734939,172,0,2,Inbound,Middle East,Jill,119,0
+22739875,258,0,3,Inbound,Middle East,Jill,119,0
+22738040,258,0,3,Inbound,Middle East,Jill,119,0
+22739889,172,0,2,Inbound,Middle East,Jill,119,0
+22734660,258,0,3,Inbound,Middle East,Jill,119,0
+11559146,792,0,1,Inbound,Middle East,Jill,18,0
+19620221,312,0,4,Inbound,Middle East,Jill,199,0
+20471792,632,0,8,Inbound,Taiwan/Japan,Jill,178,0
+20471792,869,3,8,Outbound,Taiwan/Japan,Jill,178,24
+20133985,7316,0,31,Inbound,Nigeria,Jill,122,0
+20133985,18880,57,22,Outbound,Nigeria,Jill,122,1254
+23752189,2054,0,26,Inbound,Rest of Africa,Jill,108,0
+23752189,2844,6,29,Outbound,Rest of Africa,Jill,108,174
+13566235,7380,0,30,Inbound,"S Europe, Levant & N Africa",Jack,285,0
+13566235,7380,0,30,Inbound,"S Europe, Levant & N Africa",Jill,224,0
+13566235,11562,13,34,Outbound,"S Europe, Levant & N Africa",Jack,285,442
+13566235,11562,13,34,Outbound,"S Europe, Levant & N Africa",Jill,224,442
+14808767,3744,3,45,Inbound,LAM,Jill,150,135
+14808767,3744,3,45,Inbound,LAM,Jill,377,135
+14808767,3744,3,45,Inbound,LAM,Jill,452,135
+14808767,7410,36,59,Outbound,LAM,Jill,150,2124
+14808767,7410,36,59,Outbound,LAM,Jill,377,2124
+14808767,7410,36,59,Outbound,LAM,Jill,452,2124
+27970207,610,0,10,Inbound,"Malaysia, Brunei, Philippines",Jill,19,0
+27970207,976,7,8,Outbound,"Malaysia, Brunei, Philippines",Jill,19,56
+17052874,1976,0,8,Inbound,UK & W Europe,Jill,104,0
+17052874,741,3,0,Outbound,UK & W Europe,Jill,104,0
+23393627,539,0,7,Inbound,Rest of S Asia,Jill,112,0
+23393627,1078,6,7,Outbound,Rest of S Asia,Jill,112,42
+16978000,4503,1,56,Inbound,"S Europe, Levant & N Africa",Jill,271,56
+16978000,4187,7,46,Outbound,"S Europe, Levant & N Africa",Jill,271,322
+13365589,4182,0,17,Inbound,Middle East,Jill,318,0
+13365589,4182,0,17,Inbound,Middle East,Jill,399,0
+13365589,492,0,1,Outbound,Middle East,Jill,318,0
+13365589,492,0,1,Outbound,Middle East,Jill,399,0
+22644678,1659,0,21,Inbound,Middle East,Jack,329,0
+22644678,1659,0,21,Inbound,Middle East,Jill,126,0
+22644678,1580,2,14,Outbound,Middle East,Jack,329,28
+22644678,1580,2,14,Outbound,Middle East,Jill,126,28
+17073527,7896,0,24,Inbound,Middle East,Jill,-132,0
+17073527,7896,0,24,Inbound,Middle East,Jill,18,0
+17073527,2632,0,6,Outbound,Middle East,Jill,-132,0
+17073527,2632,0,6,Outbound,Middle East,Jill,18,0
+14609108,433,0,1,Outbound,Russia,Jill,24,0
+13409528,882,0,2,Inbound,Middle East,Jill,111,0
+23372626,632,0,8,Inbound,Middle East,Jill,115,0
+23373319,450,0,6,Inbound,Middle East,Jill,115,0
+23373319,150,0,2,Outbound,Middle East,Jill,115,0
+23477809,675,0,9,Inbound,Middle East,Jill,112,0
+23477809,150,0,2,Outbound,Middle East,Jill,112,0
+23801887,225,0,3,Inbound,Middle East,Jill,105,0
+23801887,75,0,1,Outbound,Middle East,Jill,105,0
+18764347,1501,0,19,Inbound,UK & W Europe,Jill,196,0
+18764347,790,1,8,Outbound,UK & W Europe,Jill,196,8
+19623713,1216,0,16,Inbound,UK & W Europe,Jill,195,0
+19623713,2204,11,18,Outbound,UK & W Europe,Jill,195,198
+14298413,2002,1,25,Inbound,Rest of Africa,Jack,406,25
+14298413,2002,1,25,Inbound,Rest of Africa,Jill,396,25
+14298413,1771,5,18,Outbound,Rest of Africa,Jack,406,90
+14298413,1771,5,18,Outbound,Rest of Africa,Jill,396,90
+16008104,327,1,0,Outbound,Middle East,Jill,62,0
+16008104,327,1,0,Outbound,Middle East,Jill,-132,0
+15231122,2880,1,39,Inbound,Middle East,Jill,353,39
+15231122,3384,8,39,Outbound,Middle East,Jill,353,312
+23372190,1170,0,15,Inbound,Sri Lanka,Jill,116,0
+23372190,1560,3,17,Outbound,Sri Lanka,Jill,116,51
+15210972,988,3,1,Outbound,Thailand,Jill,186,3
+18313842,474,0,6,Inbound,C China,Jill,231,0
+18313842,158,0,2,Outbound,C China,Jill,231,0
+23028160,158,0,2,Inbound,S China,Jill,123,0
+23028160,158,1,1,Outbound,S China,Jill,123,1
+14823298,858,0,11,Inbound,S China,Jill,376,0
+14823298,858,0,11,Inbound,S China,Jill,154,0
+14823298,936,9,3,Outbound,S China,Jill,376,27
+14823298,936,9,3,Outbound,S China,Jill,154,27
+18763763,2130,0,30,Inbound,N China,Jill,220,0
+18763763,426,3,3,Outbound,N China,Jill,220,9
+21712947,288,0,4,Inbound,N China,Jill,159,0
+21712947,576,5,3,Outbound,N China,Jill,159,15
+18505224,1960,0,28,Inbound,N China,Jill,234,0
+18505224,350,2,3,Outbound,N China,Jill,234,6
+15609024,4536,0,63,Inbound,NA,Jill,342,0
+15609024,3744,0,52,Outbound,NA,Jill,342,0
+15816902,1080,0,15,Inbound,LAM,Jill,332,0
+15816902,1656,6,5,Outbound,LAM,Jill,332,30
+19548619,1368,0,19,Inbound,LAM,Jill,207,0
+19548619,1440,7,4,Outbound,LAM,Jill,207,28
+25086582,288,0,4,Inbound,Hong Kong,Jill,87,0
+25086582,360,3,2,Outbound,Hong Kong,Jill,87,6
+15093652,323,0,1,Inbound,Brazil,Jill,115,0
+15093652,5491,5,0,Outbound,Brazil,Jill,115,0
+17149775,2201,2,29,Inbound,Middle East,Jill,265,58
+17149775,2485,7,26,Outbound,Middle East,Jill,265,182
+20749448,1349,0,19,Inbound,Nigeria,Jill,178,0
+20749448,2343,7,25,Outbound,Nigeria,Jill,178,175
+15108916,11210,0,38,Inbound,NA,Jill,109,0
+15108916,11210,0,38,Inbound,NA,Jack,164,0
+15108916,22125,24,51,Outbound,NA,Jill,109,1224
+15108916,22125,24,51,Outbound,NA,Jack,164,1224
+21076511,1420,1,19,Inbound,Rest of Africa,Jill,171,19
+21076511,1775,8,14,Outbound,Rest of Africa,Jill,171,112
+25813977,994,1,13,Inbound,UK & W Europe,Jill,70,13
+25813977,1420,5,11,Outbound,UK & W Europe,Jill,70,55
+26528771,568,0,8,Inbound,S China,Jill,55,0
+26528771,1207,8,9,Outbound,S China,Jill,55,72
+24768968,426,0,6,Inbound,India,Jill,94,0
+24768968,639,3,6,Outbound,India,Jill,94,18
+17572619,720,0,10,Inbound,Singapore,Jill,262,0
+17572619,1080,5,10,Outbound,Singapore,Jill,262,50
+18002109,576,0,8,Inbound,Singapore,Jill,248,0
+18002109,720,3,7,Outbound,Singapore,Jill,248,21
+11843579,870,0,2,Inbound,N China,Jill,290,0
+23477610,213,0,3,Inbound,Middle East,Jill,119,0
+23477610,71,0,1,Outbound,Middle East,Jill,119,0
+25130740,648,0,9,Inbound,Central Asia,Jill,216,0
+25130740,504,1,6,Outbound,Central Asia,Jill,216,6
+26096298,976,0,16,Inbound,Nigeria,Jill,61,0
+26096298,1830,17,12,Outbound,Nigeria,Jill,61,204
+21345155,1207,0,17,Inbound,NA,Jill,167,0
+21345155,1633,10,13,Outbound,NA,Jill,167,130
+18316040,1491,0,21,Inbound,N China,Jill,238,0
+18316040,1207,12,2,Outbound,N China,Jill,238,24
+20264065,639,0,9,Inbound,W China,Jill,188,0
+20264065,142,0,1,Outbound,W China,Jill,188,0
+21079716,2272,0,32,Inbound,UK & W Europe,Jill,161,0
+21079716,1278,0,17,Outbound,UK & W Europe,Jill,161,0
+28664180,65,1,0,Inbound,Middle East,Jill,11,0
+18480133,284,0,4,Inbound,Rest of Africa,Jill,235,0
+18480133,142,0,2,Outbound,Rest of Africa,Jill,235,0
+20756309,426,0,6,Inbound,LAM,Jill,178,0
+20756309,781,3,7,Outbound,LAM,Jill,178,21
+27786091,923,1,12,Inbound,UK & W Europe,Jill,278,12
+27786091,1065,3,12,Outbound,UK & W Europe,Jill,278,36
+21066507,4260,1,59,Inbound,Sri Lanka,Jill,160,59
+21066507,4970,9,60,Outbound,Sri Lanka,Jill,160,540
+15155086,1240,3,1,Outbound,Middle East,Jill,105,3
+15155086,1240,3,1,Outbound,Middle East,Jack,,3
+20136874,994,0,14,Inbound,"S Europe, Levant & N Africa",Jill,192,0
+20136874,1349,7,12,Outbound,"S Europe, Levant & N Africa",Jill,192,84
+18977275,2272,0,32,Inbound,UK & W Europe,Jill,221,0
+18977275,2201,14,17,Outbound,UK & W Europe,Jill,221,238
+19401110,1775,0,25,Inbound,Middle East,Jill,208,0
+19401110,710,7,2,Outbound,Middle East,Jill,208,14
+11827103,435,1,0,Outbound,"S Europe, Levant & N Africa",Jill,294,0
+14124053,436,0,1,Outbound,Middle East,Jill,56,0
+16083579,324,1,0,Outbound,W China,Jill,66,0
+16230016,324,1,0,Outbound,India,Jill,60,0
+16230016,324,1,0,Outbound,India,Jill,320,0
+15658019,972,2,1,Outbound,Korea,Jill,88,2
+18067414,7232,0,32,Inbound,Rest of Africa,Jill,87,0
+18067414,4972,16,3,Outbound,Rest of Africa,Jill,87,48
+14662444,1620,0,5,Inbound,"S Europe, Levant & N Africa",Jill,278,0
+14662444,1620,0,5,Inbound,"S Europe, Levant & N Africa",Jack,285,0
+14662444,2268,0,7,Outbound,"S Europe, Levant & N Africa",Jill,278,0
+14662444,2268,0,7,Outbound,"S Europe, Levant & N Africa",Jack,285,0
+15252450,10992,0,48,Inbound,Pakistan,Jill,189,0
+15252450,10992,0,48,Inbound,Pakistan,Jill,56,0
+15252450,5267,6,17,Outbound,Pakistan,Jill,189,102
+15252450,5267,6,17,Outbound,Pakistan,Jill,56,102
+14372461,33936,0,112,Inbound,NA,Jill,158,0
+14372461,14847,10,39,Outbound,NA,Jill,158,390
+17297325,7040,0,22,Inbound,"S Europe, Levant & N Africa",Jill,70,0
+17297325,3520,2,6,Outbound,"S Europe, Levant & N Africa",Jill,70,12
+17872924,1673,0,7,Inbound,N China,Jill,84,0
+17872924,2868,3,9,Outbound,N China,Jill,84,27
+17042215,6930,3,19,Inbound,Middle East,Jill,-4,57
+17042215,5040,8,8,Outbound,Middle East,Jill,-4,64
+13458861,648,2,0,Outbound,UK & W Europe,Jill,222,0
+16499140,8100,0,25,Inbound,Middle East,Jill,13,0
+16499140,3888,0,12,Outbound,Middle East,Jill,13,0
+15617988,8100,0,25,Inbound,"S Europe, Levant & N Africa",Jill,84,0
+15617988,5832,6,8,Outbound,"S Europe, Levant & N Africa",Jill,84,48
+13315227,1296,1,3,Outbound,Taiwan/Japan,Jill,241,3
+13157500,324,0,1,Outbound,Central Asia,Jack,273,0
+13157500,324,0,1,Outbound,Central Asia,Jill,265,0
+28618058,136,0,2,Inbound,Middle East,Jill,22,0
+28618058,204,3,0,Outbound,Middle East,Jill,22,0
+15092227,284,2,2,Outbound,Pakistan,Jill,364,4
+22449183,382,0,2,Inbound,Brazil,Jill,52,0
+22449183,955,4,1,Outbound,Brazil,Jill,52,4
+19360869,900,1,4,Inbound,Nigeria,Jill,94,4
+19360869,3240,9,9,Outbound,Nigeria,Jill,94,81
+14611665,988,0,4,Inbound,E China,Jill,221,0
+14611665,741,0,3,Outbound,E China,Jill,221,0
+24802724,539,0,7,Inbound,E China,Jill,87,0
+24802724,924,3,9,Outbound,E China,Jill,87,27
+15775223,1064,0,14,Inbound,N China,Jill,175,0
+15775223,1064,0,14,Inbound,N China,Jill,327,0
+15775223,1140,9,6,Outbound,N China,Jill,175,54
+15775223,1140,9,6,Outbound,N China,Jill,327,54
+19555328,304,0,4,Inbound,N China,Jill,199,0
+19555328,1824,17,7,Outbound,N China,Jill,199,119
+22401344,154,1,1,Inbound,W China,Jill,132,1
+22401344,693,5,4,Outbound,W China,Jill,132,20
+16127951,4494,0,14,Inbound,Russia,Jill,-132,0
+16127951,4494,0,14,Inbound,Russia,Jill,54,0
+16127951,7062,0,22,Outbound,Russia,Jill,-132,0
+16127951,7062,0,22,Outbound,Russia,Jill,54,0
+21844575,308,0,4,Inbound,Korea,Jill,146,0
+21844575,308,0,4,Inbound,Korea,Jill,108,0
+21844575,1232,8,8,Outbound,Korea,Jill,146,64
+21844575,1232,8,8,Outbound,Korea,Jill,108,64
+14879909,3140,0,10,Inbound,Korea,Jill,113,0
+14879909,3140,0,10,Inbound,Korea,Jill,-132,0
+14879909,2198,3,3,Outbound,Korea,Jill,113,9
+14879909,2198,3,3,Outbound,Korea,Jill,-132,9
+19099921,539,0,7,Inbound,E China,Jill,210,0
+19099921,539,3,4,Outbound,E China,Jill,210,12
+19779196,385,0,5,Inbound,S China,Jill,195,0
+19779196,2079,15,12,Outbound,S China,Jill,195,180
+15841410,494,2,0,Outbound,S China,Jill,223,0
+15841410,494,2,0,Outbound,S China,Jill,157,0
+16202442,314,0,1,Inbound,N China,Jill,40,0
+16202442,314,0,1,Inbound,N China,Jill,-132,0
+16202442,4082,10,3,Outbound,N China,Jill,40,30
+16202442,4082,10,3,Outbound,N China,Jill,-132,30
+15336617,654,0,2,Inbound,N China,Jill,67,0
+15336617,654,0,2,Inbound,N China,Jill,-132,0
+26973185,380,1,4,Inbound,S China,Jill,53,4
+26973185,380,3,2,Outbound,S China,Jill,53,6
+27691305,594,0,11,Inbound,"S Europe, Levant & N Africa",Jill,30,0
+27691305,594,0,11,Inbound,"S Europe, Levant & N Africa",Jack,34,0
+27691305,1890,25,9,Outbound,"S Europe, Levant & N Africa",Jill,30,225
+27691305,1890,25,9,Outbound,"S Europe, Levant & N Africa",Jack,34,225
+14363982,5270,16,0,Outbound,"S Europe, Levant & N Africa",Jill,159,0
+16981373,693,0,11,Inbound,N China,Jill,236,0
+16981373,693,0,11,Inbound,N China,Jack,285,0
+16981373,756,1,11,Outbound,N China,Jill,236,11
+16981373,756,1,11,Outbound,N China,Jack,285,11
+19862337,819,2,11,Inbound,W China,Jill,205,22
+19862337,1260,10,10,Outbound,W China,Jill,205,100
+14360322,429,0,1,Outbound,N China,Jill,182,0
+14360322,429,0,1,Outbound,N China,Jill,334,0
+20392624,1404,0,9,Inbound,Indonesia,Jill,103,0
+20392624,2340,5,10,Outbound,Indonesia,Jill,103,50
+24844166,819,0,13,Inbound,N China,Jack,101,0
+24844166,819,0,13,Inbound,N China,Jill,97,0
+24844166,819,3,10,Outbound,N China,Jack,101,30
+24844166,819,3,10,Outbound,N China,Jill,97,30
+23027163,427,0,7,Inbound,W China,Jill,136,0
+23027163,854,6,8,Outbound,W China,Jill,136,48
+15853187,1610,0,10,Inbound,C China,Jill,245,0
+15853187,1610,0,10,Inbound,C China,Jill,158,0
+15853187,322,1,1,Outbound,C China,Jill,245,1
+15853187,322,1,1,Outbound,C China,Jill,158,1
+15360291,3360,0,21,Inbound,E China,Jack,451,0
+15360291,3360,0,21,Inbound,E China,Jill,207,0
+15360291,3360,0,21,Inbound,E China,Jack,578,0
+15360291,3360,0,21,Inbound,E China,Jill,269,0
+15360291,160,0,1,Outbound,E China,Jack,451,0
+15360291,160,0,1,Outbound,E China,Jill,207,0
+15360291,160,0,1,Outbound,E China,Jack,578,0
+15360291,160,0,1,Outbound,E China,Jill,269,0
+14619430,428,0,1,Inbound,UK & W Europe,Jill,24,0
+14619430,428,0,1,Inbound,UK & W Europe,Jack,,0
+24204106,213,0,3,Inbound,S China,Jill,104,0
+24204106,213,0,3,Inbound,S China,Jill,77,0
+24204106,852,3,9,Outbound,S China,Jill,104,27
+24204106,852,3,9,Outbound,S China,Jill,77,27
+19306360,8670,0,51,Inbound,S China,Jack,68,0
+19306360,8670,0,51,Inbound,S China,Jill,47,0
+19306360,6800,0,40,Outbound,S China,Jack,68,0
+19306360,6800,0,40,Outbound,S China,Jill,47,0
+16420310,4238,0,26,Inbound,N China,Jill,209,0
+16420310,4238,0,26,Inbound,N China,Jill,177,0
+16420310,1793,6,4,Outbound,N China,Jill,209,24
+16420310,1793,6,4,Outbound,N China,Jill,177,24
+14421328,3438,0,18,Inbound,"Malaysia, Brunei, Philippines",Jill,287,0
+14421328,3438,4,14,Outbound,"Malaysia, Brunei, Philippines",Jill,287,56
+16077268,1337,1,6,Inbound,UK & W Europe,Jill,196,6
+16077268,1528,2,6,Outbound,UK & W Europe,Jill,196,12
+19074047,4029,0,17,Inbound,"S Europe, Levant & N Africa",Jill,45,0
+19074047,3792,0,15,Outbound,"S Europe, Levant & N Africa",Jill,45,0
+15480784,6960,0,29,Inbound,India,Jill,180,0
+15480784,720,3,0,Outbound,India,Jill,180,0
+18306924,5520,0,23,Inbound,W China,Jill,70,0
+18306924,6240,15,11,Outbound,W China,Jill,70,165
+15106762,812,0,14,Inbound,NA,Jill,378,0
+15106762,638,0,11,Outbound,NA,Jill,378,0
+15815354,4340,1,13,Inbound,"S Europe, Levant & N Africa",Jill,68,13
+15815354,5890,8,11,Outbound,"S Europe, Levant & N Africa",Jill,68,88
+30000885,828,2,21,Inbound,UK & W Europe,Jill,-17,42
+30000885,1044,22,5,Outbound,UK & W Europe,Jill,-17,110
+18831921,8160,0,40,Inbound,Nigeria,Jack,518,0
+18831921,8160,0,40,Inbound,Nigeria,Jill,90,0
+18831921,13668,31,35,Outbound,Nigeria,Jack,518,1085
+18831921,13668,31,35,Outbound,Nigeria,Jill,90,1085
+13432275,634,0,2,Inbound,UK & W Europe,Jill,235,0
+13432275,634,0,2,Outbound,UK & W Europe,Jill,235,0
+15353723,3876,1,18,Inbound,Rest of Africa,Jill,221,18
+15353723,3876,1,18,Inbound,Rest of Africa,Jill,80,18
+15353723,6936,11,23,Outbound,Rest of Africa,Jill,221,253
+15353723,6936,11,23,Outbound,Rest of Africa,Jill,80,253
+15336826,2040,0,10,Inbound,India,Jill,102,0
+15336826,2040,0,10,Inbound,India,Jill,222,0
+15336826,204,1,0,Outbound,India,Jill,102,0
+15336826,204,1,0,Outbound,India,Jill,222,0
+20139815,204,1,0,Outbound,Nigeria,Jill,47,0
+18605915,4080,0,20,Inbound,N China,Jack,412,0
+18605915,4080,0,20,Inbound,N China,Jack,385,0
+18605915,4080,0,20,Inbound,N China,Jill,96,0
+18605915,2040,6,3,Outbound,N China,Jack,412,18
+18605915,2040,6,3,Outbound,N China,Jack,385,18
+18605915,2040,6,3,Outbound,N China,Jill,96,18
+24756562,1600,0,25,Inbound,UK & W Europe,Jill,88,0
+24756562,1408,6,14,Outbound,UK & W Europe,Jill,88,84
+26799437,810,0,15,Inbound,UK & W Europe,Jill,46,0
+26799437,2538,35,11,Outbound,UK & W Europe,Jill,46,385
+13040793,434,0,1,Inbound,NA,Jack,,0
+13040793,434,0,1,Inbound,NA,Jill,172,0
+23683106,648,0,9,Inbound,UK & W Europe,Jill,115,0
+23683106,1224,5,12,Outbound,UK & W Europe,Jill,115,60
+14994785,6642,0,27,Inbound,NA,Jill,196,0
+14994785,1230,0,5,Outbound,NA,Jill,196,0
+14937361,658,2,0,Outbound,Hong Kong,Jill,193,0
+14937361,658,2,0,Outbound,Hong Kong,Jill,-132,0
+14937361,658,2,0,Outbound,Hong Kong,Jill,118,0
+15228768,1235,5,0,Outbound,Korea,Jill,186,0
